@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Ilya Orson Sandoval
+title: Abdullah Bahamdan
 
 # Full name (for SEO)
-first_name: Ilya
-last_name: Orson Sandoval
+first_name: Abdullah
+last_name: Bahamdan
 
 # Username (this should match the folder name)
 authors:
-  - ilya
+  - abdullah
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ role: Third Year PhD Candidate
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ilya is a PhD candidate working at the intersection of reinforcement learning, optimal control and process systems engineering. He has a background in theoretical and computational physics and previously worked in data science and software engineering within the energy and food industries in Mexico. Curiosity driven, usually by applied mathematics and computer simulations!
+bio: Graduated with a BSc degree in chemical engineering and MEng in engineering management from King Fahd University of Petroleum & Minerals (KFUPM). His research aspires to support the realization of global sustainability objectives using advanced analytics. It involves the investigation of various data-driven optimization techniques to decarbonize existing energy networks, drive their performance to achieve net-zero targets, and plan the transition toward developing clean/low-carbon energy hubs. 
 
 interests:
   - Reinforcement Learning
@@ -73,4 +73,4 @@ user_groups:
   - Graduate Students
 ---
 
-Ilya is a PhD candidate working at the intersection of reinforcement learning, optimal control and process systems engineering. He has a background in theoretical and computational physics and previously worked in data science and software engineering within the energy and food industries in Mexico. Curiosity driven, usually by applied mathematics and computer simulations!
+Graduated with a BSc degree in chemical engineering and MEng in engineering management from King Fahd University of Petroleum & Minerals (KFUPM). His research aspires to support the realization of global sustainability objectives using advanced analytics. It involves the investigation of various data-driven optimization techniques to decarbonize existing energy networks, drive their performance to achieve net-zero targets, and plan the transition toward developing clean/low-carbon energy hubs. 
