@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Third Year PhD Candidare
+role: Third Year PhD Candidate
 
 # Organizations/Affiliations
 # organizations:

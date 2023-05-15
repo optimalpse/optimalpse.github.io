@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Second Year PhD Candidare
+role: Second Year PhD Candidate
 
 # Organizations/Affiliations
 # organizations:
