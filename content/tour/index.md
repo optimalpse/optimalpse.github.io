@@ -31,13 +31,13 @@ sections:
 
  Data-driven optimization has been used within the OptiML PSE group in applications spanning planning and scheduling, optimization of simulated chemical reactors, plant-wide optimization and dynamical optimization of bioprocesses. '
         align: center
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
+        # background:
+          # image:
+          #   filename: contact.jpg
+          #   filters:
+          #     brightness: 0.7
+          # position: center
+          # color: '#555'
       - title: Supply Chain Optimisation
         content: '
 **Fundamentals**
@@ -51,18 +51,18 @@ Chemical supply chain operations become more and more challenging due to the inc
 
 Our group’s research explores various data-driven techniques to address some of the shortcomings of EWO. This includes for example: Derivative-Free Optimization (also known as Black-Box or Simulation Optimization) for value chain coordination under organizational considerations, multilevel optimization via derivative-free optimization and optimization with embedded neural network or decision tree surrogates, and Graph Neural Networks for Reinforcement Learning of supply chains. Underlying much of our supply chain optimization runs a strong focus on sustainable supply chain applications and respecting the organizational (i.e. software, privacy, and game-theoretical) considerations of chemical companies. '
         align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+        # background:
+        #   image:
+        #     filename: welcome.jpg
+        #     filters:
+        #       brightness: 0.5
+        #   position: center
+        #   color: '#333'
+        # link:
+        #   icon: graduation-cap
+        #   icon_pack: fas
+        #   text: Join Us
+        #   url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
