@@ -17,7 +17,7 @@ sections:
             filters:
               brightness: 0.7
           position: right
-          color: '#666'
+          # color: '#666'
       - title: Data-Driven Optimisation
         content: '
   **Fundamentals**
