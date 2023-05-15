@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        About us
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The group has two main branches of research, on one hand, developing new and more efficient optimisation, reinforcement learning and machine learning algorithms that allow to solve general problems in the systems domain. On the other hand, applying existing state-of-the-art techniques to address current challenges in process engineering. Our main area of application has been bioprocesses, although we work on other areas, such as fluid dynamics, photonic mirrors, superstructure optimisation, amongst a few others. 
   
   - block: collection
     content:
