@@ -12,13 +12,6 @@ sections:
        If you're interested in the work we do, feel free to check out our GitHub and Twitter to stay up to date with the group's research.  
       # email: test@example.org
       # phone: 888 888 88 88
-      social:
-      - icon: twitter
-        icon_pack: fab
-        link: https://twitter.com/GeorgeCushen
-      - icon: github
-        icon_pack: fab
-        link: https://github.com/gcushen
       address:
         street: 180 Queen's Gate
         city: London
@@ -59,17 +52,24 @@ sections:
       title:
       subtitle: ''
       text:
+    social:
+      - icon: twitter
+        icon_pack: fab
+        link: https://twitter.com/GeorgeCushen
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/gcushen
     design:
       columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
+      # background:
+      #   image: 
+      #     filename: contact.jpg
+      #     filters:
+      #       brightness: 1
+      #     parallax: false
+      #     position: center
+      #     size: cover
+      #     text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
