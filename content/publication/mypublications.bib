@@ -233,3 +233,136 @@ Publisher: Nature Publishing Group},
 	pages = {e17977},
 	file = {Full Text PDF:/Users/busesibelkorkmaz/Zotero/storage/PYHVLDMP/van de Berg et al. - 2023 - Data-driven coordination of subproblems in enterpr.pdf:application/pdf;Snapshot:/Users/busesibelkorkmaz/Zotero/storage/28UXZ823/aic.html:text/html},
 }
+@misc{zhong2021datadriven,
+      title={Data-driven distributionally robust MPC using the Wasserstein metric}, 
+      author={Zhengang Zhong and Ehecatl Antonio del Rio-Chanona and Panagiotis Petsagkourakis},
+      year={2021},
+      eprint={2105.08414},
+      archivePrefix={arXiv},
+      primaryClass={math.OC}
+}
+
+@article{SAVAGE202011193,
+title = {Surrogate Modelling and Optimization for Complex Liquefied Natural Gas Refrigeration Cycles},
+journal = {IFAC-PapersOnLine},
+volume = {53},
+number = {2},
+pages = {11193-11198},
+year = {2020},
+note = {21st IFAC World Congress},
+issn = {2405-8963},
+doi = {https://doi.org/10.1016/j.ifacol.2020.12.316},
+url = {https://www.sciencedirect.com/science/article/pii/S2405896320305978},
+author = {Thomas Savage and Fernando Almeida-Trasvina and Antonio Del-Rio Chanona and Robin Smith and Dongda Zhang},
+keywords = {chemical engineering, large scale optimization problem, efficient strategies for large scale complex systems, machine learning, model reduction},
+abstract = {In this paper, surrogate modelling and optimization is investigated for use in large scale chemical processes. A novel CryoMan cascade liquefied natural gas (LNG) refrigeration cycle is selected as the case study which has been highlighted for potential use within industry. Given its high nonlinearity and dimensionality (31 input variables and 20 output variables with a number of physical constraints) and short time horizon for real-time decision-making, an time-efficient optimization scheme must be developed to maximize process performance. Therefore, various supervised and unsupervised learning techniques as well as surrogate model structures are explored in order to accurately capture the behaviour of this highly complex and interrelated process flowsheet. Optimal solutions identified by the surrogate models are validated against the rigorous process model. Following from the challenges encountered by artificial neural network based surrogate models, Gaussian processes were adopted and combined with partial least squares to simultaneously reduce dimensionality and capture the nonlinearity of the underlying chemical process. Through this innovative surrogate modelling strategy, overall time to optimize the LNG production process was reduced by orders of magnitude compared to the rigorous model based optimization methodology, hence significantly facilitating the industrial application of this new process.}
+}
+
+@article{MOWBRAY2021108054,
+title = {Machine learning for biochemical engineering: A review},
+journal = {Biochemical Engineering Journal},
+volume = {172},
+pages = {108054},
+year = {2021},
+issn = {1369-703X},
+doi = {https://doi.org/10.1016/j.bej.2021.108054},
+url = {https://www.sciencedirect.com/science/article/pii/S1369703X21001303},
+author = {Max Mowbray and Thomas Savage and Chufan Wu and Ziqi Song and Bovinille Anye Cho and Ehecatl A. {Del Rio-Chanona} and Dongda Zhang},
+keywords = {Machine learning, Data-driven modelling, Biochemical engineering, Industrial biotechnology, Digitalisation, Digital twin},
+abstract = {The field of machine learning is comprised of techniques, which have proven powerful approaches to knowledge discovery and construction of ‘digital twins’ in the highly dimensional, nonlinear and stochastic domains common to biochemical engineering. We review the use of machine learning within biochemical engineering over the last 20 years. The most prevalent machine learning methods are demystified, and their impact across individual biochemical engineering subfields is outlined. In doing so we provide insights into the true benefits of each technique, and obstacles for their wider deployment. Finally, core challenges into the application of machine learning in biochemical engineering are thoroughly discussed, and further insight into adoption of innovative hybrid modelling and transfer learning strategies for development of new digital biotechnologies is provided.}
+}
+
+@article{https://doi.org/10.1002/aic.17358,
+author = {Thomas R. Savage and Fernando Almeida-Trasvina and Ehecatl Antonio Del {Río Chanona} and Robin Smith and Dondga Zhang},
+title = {An integrated dimensionality reduction and surrogate optimization approach for plant-wide chemical process operation},
+journal = {AIChE Journal},
+volume = {67},
+number = {11},
+pages = {e17358},
+keywords = {dimensionality reduction, Gaussian process, liquefied natural gas production, operational optimization, surrogate modeling},
+doi = {https://doi.org/10.1002/aic.17358},
+url = {https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.17358},
+eprint = {https://aiche.onlinelibrary.wiley.com/doi/pdf/10.1002/aic.17358},
+abstract = {Abstract With liquefied natural gas becoming increasingly prevalent as a flexible source of energy, the design and optimization of industrial refrigeration cycles becomes even more important. In this article, we propose an integrated surrogate modeling and optimization framework to model and optimize the complex CryoMan Cascade refrigeration cycle. Dimensionality reduction techniques are used to reduce the large number of process decision variables which are subsequently supplied to an array of Gaussian processes, modeling both the process objective as well as feasibility constraints. Through iterative resampling of the rigorous model, this data-driven surrogate is continually refined and subsequently optimized. This approach was not only able to improve on the results of directly optimizing the process flow sheet but also located the set of optimal operating conditions in only 2 h as opposed to the original 3 weeks, facilitating its use in the operational optimization and enhanced process design of large-scale industrial chemical systems.},
+year = {2021}
+}
+
+@article{SAVAGE2021504,
+title = {Model-free safe reinforcement learning for chemical processes using Gaussian processes},
+journal = {IFAC-PapersOnLine},
+volume = {54},
+number = {3},
+pages = {504-509},
+year = {2021},
+note = {16th IFAC Symposium on Advanced Control of Chemical Processes ADCHEM 2021},
+issn = {2405-8963},
+doi = {https://doi.org/10.1016/j.ifacol.2021.08.292},
+url = {https://www.sciencedirect.com/science/article/pii/S240589632101065X},
+author = {Thomas Savage and Dongda Zhang and Max Mowbray and Ehecatl Antonio Del {Río Chanona}},
+keywords = {Batch Processes, Modelling, Identification, Scheduling, Optimization},
+abstract = {Model-free reinforcement learning has been recently investigated for use in chemical process control. Through the iterative creation of an approximate process model, control actions are able to be explored and optimal policies generated. Typically, this approximate process model has taken the form of a neural network that is continuously updated. However when small quantities of historical data are available, for example in novel processes, neural networks tend to over-fit to data providing poor performance. In this paper Gaussian processes are used as a method of function approximation to describe the action-value function of a non-isothermal semi-batch reactor. Through the use of analytical uncertainty obtained from Gaussian process predictions, trade off between exploration and exploitation is enabled, allowing for efficient generation of effective policies. Importantly Gaussian processes also enable probabilistic constraint violation to be modelled, ensuring safe constraint satisfaction throughout the learning procedure. On application to the in-silico case study, a safe, effective policy was generated utilising only 100 evaluations of process trajectory with no prior knowledge of the process dynamics. A result that would require significantly more trajectory evaluations when compared to a neural network based approach.}
+}
+
+@article{PETSAGKOURAKIS202011264,
+title = {Constrained Reinforcement Learning for Dynamic Optimization under Uncertainty},
+journal = {IFAC-PapersOnLine},
+volume = {53},
+number = {2},
+pages = {11264-11270},
+year = {2020},
+note = {21st IFAC World Congress},
+issn = {2405-8963},
+doi = {https://doi.org/10.1016/j.ifacol.2020.12.361},
+url = {https://www.sciencedirect.com/science/article/pii/S2405896320306455},
+author = {P. Petsagkourakis and I.O. Sandoval and E. Bradford and D. Zhang and E.A. {del Rio-Chanona}},
+keywords = {Reinforcement learning, Uncertain dynamic systems, Stochastic control, Chemical process control, Adaptive control, Policy gradient},
+abstract = {Dynamic real-time optimization (DRTO) is a challenging task due to the fact that optimal operating conditions must be computed in real time. The main bottleneck in the industrial application of DRTO is the presence of uncertainty. Many stochastic systems present the following obstacles: 1) plant-model mismatch, 2) process disturbances, 3) risks in violation of process constraints. To accommodate these difficulties, we present a constrained reinforcement learning (RL) based approach. RL naturally handles the process uncertainty by computing an optimal feedback policy. However, no state constraints can be introduced intuitively. To address this problem, we present a chance-constrained RL methodology. We use chance constraints to guarantee the probabilistic satisfaction of process constraints, which is accomplished by introducing backoffs, such that the optimal policy and backoffs are computed simultaneously. Backoffs are adjusted using the empirical cumulative distribution function to guarantee the satisfaction of a joint chance constraint. The advantage and performance of this strategy are illustrated through a stochastic dynamic bioprocess optimization problem, to produce sustainable high-value bioproducts.}
+}
+
+@article{doi:10.1021/acs.iecr.9b06511,
+author = {Savage, Thomas R. and Zhang, Dongda},
+title = {Superstructure Reaction Network Design for the Synthesis of Biobased Sustainable Nitrogen-Containing Polymers},
+journal = {Industrial \& Engineering Chemistry Research},
+volume = {59},
+number = {10},
+pages = {4688-4697},
+year = {2020},
+doi = {10.1021/acs.iecr.9b06511},
+URL = {https://doi.org/10.1021/acs.iecr.9b06511},
+eprint = {https://doi.org/10.1021/acs.iecr.9b06511},
+abstract = { Biomass-derived polymer production processes have been extensively studied to substitute petrochemical-based polymer synthesis routes. However, previous research predominantly focused on the synthesis of nitrogen-free polymers. Therefore, a novel superstructure reaction network was constructed in this study to convert different types of biomass waste into a range of commercial nitrogen-containing polymers. Trade-offs between process profit and greenness were analyzed to screen the large size of bioderived reaction pathways. Both mixed-integer programming and multiobjective optimization were formulated to effectively identify the best polymer candidates and their associated optimal synthesis route. Several commercial nitrogen-containing polymers including urea-formaldehyde and Nylon 1,6 were found to be promising candidates for future bioproduction. Moreover, the stability of current optimization results with respect to the availability of external nitrogen and hydrogen sources was also thoroughly analyzed. The results of this study can be used to guide the development of future renewable polymer production processes. }
+}
+
+@incollection{SAVAGE202073,
+title = {An adaptive data-driven modelling and optimization framework for complex chemical process design},
+editor = {Sauro Pierucci and Flavio Manenti and Giulia Luisa Bozzano and Davide Manca},
+series = {Computer Aided Chemical Engineering},
+publisher = {Elsevier},
+volume = {48},
+pages = {73-78},
+year = {2020},
+booktitle = {30th European Symposium on Computer Aided Process Engineering},
+issn = {1570-7946},
+doi = {https://doi.org/10.1016/B978-0-12-823377-1.50013-6},
+url = {https://www.sciencedirect.com/science/article/pii/B9780128233771500136},
+author = {Thomas Savage and Hector Fernando Almeida-Trasvina and Ehecatl Antonio {del Río-Chanona} and Robin Smith and Dongda Zhang},
+keywords = {large-scale chemical process, surrogate modelling, dimensionality reduction, Gaussian processes, artificial neural network},
+abstract = {Current advances in computer-aided chemical process design and synthesis take advantage of surrogate modelling and superstructure optimization techniques. Conventionally, this is completed by using first-principle physical models or data-driven models to replace the original rigorous models for optimization and selection of a specific unit operation. Despite its achievements, this strategy is inefficient when dealing with complex process flowsheets such as utility and refrigeration systems where a large number of unit operations are heavily connected by recycling streams. To address this problem, an integrated data-driven modelling and optimization framework is proposed in this work. The framework first constructs a hybrid machine learning based surrogate model to automatically reduce the system dimensionality and capture the nonlinearity of the underlying chemical process. Then, an efficient optimization algorithm, in specific, evolutionary algorithm, is embedded to identify the optimal solution of this surrogate model. Quality and accuracy of the estimated optimal solution is finally validated against the rigorous process model. Through an iterative approach, optimal operating conditions for the entire process flowsheet are efficiently identified. Furthermore, the novel CryoMan Cascade cycle system for large scale liquefied natural gas manufacturing is used as the case study. This framework is demonstrated to be superior regarding time-efficiency, solution quality, and flexibility over the rigorous model based optimization approach.}
+}
+
+@incollection{PETSAGKOURAKIS2019919,
+title = {Reinforcement Learning for Batch-to-Batch Bioprocess Optimisation},
+editor = {Anton A. Kiss and Edwin Zondervan and Richard Lakerveld and Leyla Özkan},
+series = {Computer Aided Chemical Engineering},
+publisher = {Elsevier},
+volume = {46},
+pages = {919-924},
+year = {2019},
+booktitle = {29th European Symposium on Computer Aided Process Engineering},
+issn = {1570-7946},
+doi = {https://doi.org/10.1016/B978-0-12-818634-3.50154-5},
+url = {https://www.sciencedirect.com/science/article/pii/B9780128186343501545},
+author = {P. Petsagkourakis and I. Orson Sandoval and E. Bradford and D. Zhang and E.A. {del Rio-Chanona}},
+keywords = {Reinforcement Learning, Batch Process, Recurrent Neural Networks, Bio-processes},
+abstract = {Bioprocesses have received great attention from the scientific community as an alternative to fossil-based products by microorganisms-synthesised counterparts. However, bioprocesses are generally operated at unsteady-state conditions and are stochastic from a macro-scale perspective, making their optimisation a challenging task. Furthermore, as biological systems are highly complex, plant-model mismatch is usually present. To address the aforementioned challenges, in this work, we propose a reinforcement learning based online optimisation strategy. We first use reinforcement learning to learn an optimal policy given a preliminary process model. This means that we compute diverse trajectories and feed them into a recurrent neural network, resulting in a policy network which takes the states as input and gives the next optimal control action as output. Through this procedure, we are able to capture the previously believed behaviour of the biosystem. Subsequently, we adopted this network as an initial policy for the “real” system (the plant) and apply a batch-to-batch reinforcement learning strategy to update the network’s accuracy. This is computed by using a more complex process model (representing the real plant) embedded with adequate stochasticity to account for the perturbations in a real dynamic bioprocess. We demonstrate the effectiveness and advantages of the proposed approach in a case study by computing the optimal policy in a realistic number of batch runs.}
+}

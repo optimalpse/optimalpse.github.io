@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-17T11:15:49.543829Z'
+publishDate: '2023-05-17T11:36:44.475287Z'
 publication_types:
 - '2'
 abstract: Classical stochastic model predictive control (SMPC) methods assume that

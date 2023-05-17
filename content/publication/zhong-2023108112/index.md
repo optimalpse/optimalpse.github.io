@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-17T11:15:49.664805Z'
+publishDate: '2023-05-17T11:36:44.599845Z'
 publication_types:
 - '2'
 abstract: Model predictive control (MPC) is an effective approach to control multivariable

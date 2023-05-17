@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-17T11:15:50.027726Z'
+publishDate: '2023-05-17T11:36:44.964168Z'
 publication_types:
 - '0'
 abstract: 'Neural ordinary differential equations (Neural ODEs) define continuous

@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-17T11:15:49.026402Z'
+publishDate: '2023-05-17T11:36:43.863247Z'
 publication_types:
 - '2'
 abstract: Reinforcement Learning (RL) is an effective method to solve stochastic sequential
