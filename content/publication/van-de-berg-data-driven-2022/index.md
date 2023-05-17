@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-17T10:58:51.654077Z'
+publishDate: '2023-05-17T11:15:49.301479Z'
 publication_types:
 - '6'
 abstract: Coordinating decision-making capacities using optimization is a key factor
