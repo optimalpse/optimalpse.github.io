@@ -1,0 +1,38 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Distributionally Robust MPC for Nonlinear Systems
+subtitle: ''
+summary: ''
+authors: []
+tags: []
+categories: []
+date: -01-01
+lastmod: 2023-05-17T11:58:52+01:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-05-17T10:58:51.900870Z'
+publication_types:
+- '0'
+abstract: ''
+publication: ''
+doi: 10.1016/j.ifacol.2022.07.510
+links:
+- name: URL
+  url: https://reader.elsevier.com/reader/sd/pii/S2405896322009168?token=E4F5A095DCFAA7CE6AACAA062D9BFB43CE1F5784AA84D2336F6C5A7240CA6BDE26CF66D5636E776551F57969649728AF&originRegion=eu-west-1&originCreation=20230516130326
+---
