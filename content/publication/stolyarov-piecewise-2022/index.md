@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-17T11:15:49.907448Z'
+publishDate: '2023-05-17T11:36:44.844895Z'
 publication_types:
 - '6'
 abstract: Complex systems which exhibit different dynamics based on their operating

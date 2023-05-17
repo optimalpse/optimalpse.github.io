@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-17T11:15:50.150507Z'
+publishDate: '2023-05-17T11:36:45.086688Z'
 publication_types:
 - '2'
 abstract: Light attenuation is a primary challenge limiting the upscaling of photobioreactors
