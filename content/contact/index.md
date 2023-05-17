@@ -27,7 +27,7 @@ sections:
         country: United Kingdom
         country_code: UK
       coordinates:
-        latitude: ' 51.499457'
+        latitude: '51.499457'
         longitude: '-0.178120'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
