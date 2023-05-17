@@ -12,16 +12,23 @@ sections:
        If you're interested in the work we do, feel free to check out our GitHub and Twitter to stay up to date with the group's research.  
       # email: test@example.org
       # phone: 888 888 88 88
+      social:
+      - icon: twitter
+        icon_pack: fab
+        link: https://twitter.com/GeorgeCushen
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/gcushen
       address:
         street: 180 Queen's Gate
         city: London
-        region: CA
+        region: ""
         postcode: 'SW7 2AZ'
         country: United Kingdom
         country_code: UK
-      # coordinates:
-      #   latitude: '37.4275'
-      #   longitude: '-122.1697'
+      coordinates:
+        latitude: ' 51.499457'
+        longitude: '-0.178120'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
