@@ -52,7 +52,7 @@ sections:
       title:
       subtitle: ''
       text:
-    social:
+      social:
       - icon: twitter
         icon_pack: fab
         link: https://twitter.com/GeorgeCushen
