@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-17T10:58:52.750644Z'
+publishDate: '2023-05-17T11:15:50.279904Z'
 publication_types:
 - '0'
 abstract: 'The industrialization of catalytic processes is of far more importance

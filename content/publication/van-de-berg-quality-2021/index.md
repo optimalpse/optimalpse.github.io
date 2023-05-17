@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-17T10:58:52.872586Z'
+publishDate: '2023-05-17T11:15:50.402904Z'
 publication_types:
 - '2'
 abstract: Rapid-response vaccine production platform technologies, including RNA vaccines,
