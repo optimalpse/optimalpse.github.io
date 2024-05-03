@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: First Year PhD Candidate
+role: Second Year PhD Candidate
 
 # Organizations/Affiliations
 # organizations:
@@ -22,40 +22,44 @@ role: First Year PhD Candidate
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Miguel is a chemical engineering PhD candidate at Imperial College London as part of the EPSRC Centre for Doctoral Training in Next Generation Synthesis and Reaction Technology (CDT React). He holds an MEng degree in chemical engineering with industrial experience from The University of Manchester, and an MRes degree in advanced molecular synthesis from Imperial College London. Miguel’s research is currently at the intersection of data science, chemical engineering and chemistry. Specifically, his research focuses on the automated knowledge discovery for chemical processes as well as data-driven optimization for process systems engineering.
+bio: Miguel Carvalho is a chemical engineering PhD candidate at Imperial College London, affiliated with the EPSRC CDT in Next Generation Synthesis and Reaction Technology. He earned an MEng in chemical engineering from The University of Manchester (2021) and an MRes in advanced molecular synthesis from Imperial College London (2022). His research intersects data science, chemical engineering, and chemistry, concentrating on algorithmic solutions for automated knowledge discovery in reaction engineering and catalysis.
 
 interests:
-  - Reinforcement Learning
-  - Optimal Control
-  - Process Systems Engineering
+  - Automated Discovery
+  - Machine Learning
+  - Symbolic Computation
+  - Chemical Reaction Engineering
 
 education:
   courses:
     - course: MRes in Advanced Molecular Synthesis
       institution: Imperial College London
-      year: 2022
+      year: 2021-2022
     - course: MEng in Chemical Engineering
       institution: The University of Manchester 
-      year: 2021
+      year: 2017-2021
    
+professional experience:
+  experiences:
+    - experience: Engineering Intern
+      institution: William Blythe
+      year: 2020
+    - experience: Engineering Intern
+      institution: Synthomer
+      year: 2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
+  - icon: linkedin
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.linkedin.com/in/macservia/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/MACServia
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,4 +75,4 @@ user_groups:
   - Graduate Students
 ---
 
-Miguel is a chemical engineering PhD candidate at Imperial College London as part of the EPSRC Centre for Doctoral Training in Next Generation Synthesis and Reaction Technology (CDT React). He holds an MEng degree in chemical engineering with industrial experience from The University of Manchester, and an MRes degree in advanced molecular synthesis from Imperial College London. Miguel’s research is currently at the intersection of data science, chemical engineering and chemistry. Specifically, his research focuses on the automated knowledge discovery for chemical processes as well as data-driven optimization for process systems engineering.
+Miguel Carvalho is a chemical engineering PhD candidate at Imperial College London, affiliated with the EPSRC CDT in Next Generation Synthesis and Reaction Technology. He earned an MEng in chemical engineering from The University of Manchester (2021) and an MRes in advanced molecular synthesis from Imperial College London (2022). His research intersects data science, chemical engineering, and chemistry, concentrating on algorithmic solutions for automated knowledge discovery in reaction engineering and catalysis.
