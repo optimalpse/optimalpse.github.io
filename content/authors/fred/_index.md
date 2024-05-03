@@ -68,7 +68,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - PhD Researchers
 ---
 
 Friedrich is a PhD candidate at the CDT React with a research focus on developing interpretable and reliable machine learning frameworks for chemical retrosynthesis. He is generally interested in the application of deep learning techniques for small molecules and proteins. Prior to his PhD, he was an undergraduate student in the Department of Chemical Engineering at Imperial College London.
