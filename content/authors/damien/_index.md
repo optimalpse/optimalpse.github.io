@@ -22,41 +22,43 @@ role: Third Year PhD Candidate
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Third-year chemical engineering PhD candidate, graduated with a MEng in chemical engineering at Imperial College London with a Year Abroad at Columbia University in the City of New York. His research lies at the intersection of optimization and machine learning. He researches how data-driven techniques can aid the large-scale optimization of integrated manufacturing systems and supply chains. By working in close collaboration with industry, he ensures that his case studies are industrially relevant and that his algorithms respect the organizational and business considerations of the process industries.
+bio: Final-year PhD candidate working at the intersection of optimization and Machine Learning. I investigate how data-driven techniques can aid the optimization of integrated manufacturing and supply chain systems, with a focus on black-box optimization, optimization with embedded neural networks, and Reinforcement Learning for combinatorial optimization. By collaborating with industry, I ensure my case studies are industrially relevant and that my algorithms respect the organizational and business considerations of the process industries.
 
 interests:
-  - Optimization
-  - Machine Learning
+  - Data-Driven Optimization
+  - Amortized Learning
+  - Reinforcement Learning for Combinatorial Optimization
+  - Value Chain Coordination
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng Chemical Engineering with a Year Abroad
+      institution: Imperial College London
+      year: 2016-2020
+
+professional experience:
+  experiences:
+    - experience: Research Scientist Intern
+      institution: Amazon
+      year: 2023-2024
+    - experience: PhD Student
+      institution: BASF
+      year: 2020-2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/DamienvandeBer1
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/damien-van-de-berg-786540126/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/dv516
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,4 +74,4 @@ user_groups:
   - Graduate Students
 ---
 
-Third-year chemical engineering PhD candidate, graduated with a MEng in chemical engineering at Imperial College London with a Year Abroad at Columbia University in the City of New York. His research lies at the intersection of optimization and machine learning. He researches how data-driven techniques can aid the large-scale optimization of integrated manufacturing systems and supply chains. By working in close collaboration with industry, he ensures that his case studies are industrially relevant and that his algorithms respect the organizational and business considerations of the process industries.
+Final-year PhD candidate working at the intersection of optimization and Machine Learning. I investigate how data-driven techniques can aid the optimization of integrated manufacturing and supply chain systems, with a focus on black-box optimization, optimization with embedded neural networks, and Reinforcement Learning for combinatorial optimization. By collaborating with industry, I ensure my case studies are industrially relevant and that my algorithms respect the organizational and business considerations of the process industries.
