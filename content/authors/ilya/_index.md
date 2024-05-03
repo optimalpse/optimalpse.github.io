@@ -22,42 +22,46 @@ role: Third Year PhD Candidate
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ilya is a PhD candidate working at the intersection of reinforcement learning, optimal control and process systems engineering. He has a background in theoretical and computational physics and previously worked in data science and software engineering within the energy and food industries in Mexico. Curiosity driven, usually by applied mathematics and computer simulations!
+bio: I am a PhD candidate at Imperial College London, where my research focuses on the intersection of reinforcement learning, differentiable programming and nonlinear optimal control. Curiosity driven, usually by applied mathematics and computer simulations with applications over multiple fields! Previously, I worked in data science and software engineering within the energy and food industries in Mexico. I have a background in theoretical and computational physics.
 
 interests:
+  - Cyber Defense
   - Reinforcement Learning
-  - Optimal Control
-  - Process Systems Engineering
+  - Differentiable Programming
+  - Computational Physics
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc Physics
+      institution: Universidad Nacional Autónoma de México (UNAM)
+      year: 2017
+
+professional experience:
+  experiences:
+    - experience: Machine Learning Research Internship
+      institution: The Alan Turing Institute
+      year: 2023-2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: laptop
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: https://ilyaorson.gitlab.io/blog/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/IlyaOrson
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ilyaorson/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=a4L1PPMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ilyaorson
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,4 +77,4 @@ user_groups:
   - Graduate Students
 ---
 
-Ilya is a PhD candidate working at the intersection of reinforcement learning, optimal control and process systems engineering. He has a background in theoretical and computational physics and previously worked in data science and software engineering within the energy and food industries in Mexico. Curiosity driven, usually by applied mathematics and computer simulations!
+I am a PhD candidate at Imperial College London, where my research focuses on the intersection of reinforcement learning, differentiable programming and nonlinear optimal control. Curiosity driven, usually by applied mathematics and computer simulations with applications over multiple fields! Previously, I worked in data science and software engineering within the energy and food industries in Mexico. I have a background in theoretical and computational physics.
