@@ -22,12 +22,12 @@ role: Third Year PhD Candidate
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduated with a BSc degree in chemical engineering and MEng in engineering management from King Fahd University of Petroleum & Minerals (KFUPM). His research aspires to support the realization of global sustainability objectives using advanced analytics. It involves the investigation of various data-driven optimization techniques to decarbonize existing energy networks, drive their performance to achieve net-zero targets, and plan the transition toward developing clean/low-carbon energy hubs. 
+bio: Abdullah is a second-year PhD candidate committed to advancing global sustainability goals through advanced analytics. His research focuses on data-driven optimization techniques designed to decarbonize energy networks, enhance their performance to meet net-zero targets, and facilitate the
+transition towards clean and low-carbon energy hubs. Prior to pursuing his PhD, Abdullah accumulated seven years of industrial experience across various sectors of the energy industry. 
 
 interests:
-  - Reinforcement Learning
-  - Optimal Control
-  - Process Systems Engineering
+  - Sustainable Energy Systems
+  - Decarbonization
 
 education:
   courses:
@@ -41,23 +41,26 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
 
+professional experience:
+  experiences:
+    - experience: Process Optimization Engineer
+      institution: Saudi Aramco
+      year: 2015-2022
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.linkedin.com/in/abdullah-bahamdan/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=tsCcj3AAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/bahaaa0g
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,4 +76,5 @@ user_groups:
   - Graduate Students
 ---
 
-Graduated with a BSc degree in chemical engineering and MEng in engineering management from King Fahd University of Petroleum & Minerals (KFUPM). His research aspires to support the realization of global sustainability objectives using advanced analytics. It involves the investigation of various data-driven optimization techniques to decarbonize existing energy networks, drive their performance to achieve net-zero targets, and plan the transition toward developing clean/low-carbon energy hubs. 
+Abdullah is a second-year PhD candidate committed to advancing global sustainability goals through advanced analytics. His research focuses on data-driven optimization techniques designed to decarbonize energy networks, enhance their performance to meet net-zero targets, and facilitate the
+transition towards clean and low-carbon energy hubs. Prior to pursuing his PhD, Abdullah accumulated seven years of industrial experience across various sectors of the energy industry. 
