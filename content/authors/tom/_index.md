@@ -22,39 +22,50 @@ role: Third Year PhD Candidate
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Tom has previously studied at the University of Manchester (BSc) and the University of Cambridge (MPhil). His research has focused on the creation of knowledge-graph based national-scale digital twins for the economic, environmental and social assessment of future energy technologies. He currently focuses on the data-driven optimisation of simulated chemical reactors, and on approximate robust optimisation methods for the optimal allocation of national-scale policy interventions.
+bio: I am a PhD student at Imperial College London & 2023 Enrichment student at the Alan Turing Institute. I have a background in Chemical Engineering and still enjoy teaching labs at Imperial College. Alongside my work in process systems engineering, I am affiliated with Winchester School of Art producing installations with the Tate on the intersection between AI and art. My interests include Bayesian optimisation, human-in-the-loop machine learning, cricket 🏏, and darts 🎯.
 
 interests:
-  - Reinforcement Learning
-  - Optimal Control
-  - Process Systems Engineering
+  - Bayesian Optimization
+  - Human-AI Collaboration
+  - Chemical Processes
 
 education:
   courses:
-    - course: MPhil in ....
+    - course: MPhil Chemical Engineering & Biotechnology
       institution: University of Cambridge
-      year: 2021
-    - course: BSc in Chemical Engineering
-      institution: The University of Manchester
-      year: 2020
+      year: 2020-2021
+    - course: BEng Chemical Engineering
+      institution: University of Manchester
+      year: 2017-2020
+
+professional experience:
+  experiences:
+    - experience: Alan Turing Institute
+      institution: 
+    - experience: PhD Enrichment Student Winchester School of Art
+      institution: 
+    - experience: Visiting Researcher
+      institution: 
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: laptop
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: https://sav.phd
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
+    link: https://twitter.com/Savage_Tom
+  - icon: linkedin
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.linkedin.com/in/trsavage/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link:   https://github.com/trsav
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +81,4 @@ user_groups:
   - Graduate Students
 ---
 
-Tom has previously studied at the University of Manchester (BSc) and the University of Cambridge (MPhil). His research has focused on the creation of knowledge-graph based national-scale digital twins for the economic, environmental and social assessment of future energy technologies. He currently focuses on the data-driven optimisation of simulated chemical reactors, and on approximate robust optimisation methods for the optimal allocation of national-scale policy interventions.
+I am a PhD student at Imperial College London & 2023 Enrichment student at the Alan Turing Institute. I have a background in Chemical Engineering and still enjoy teaching labs at Imperial College. Alongside my work in process systems engineering, I am affiliated with Winchester School of Art producing installations with the Tate on the intersection between AI and art. My interests include Bayesian optimisation, human-in-the-loop machine learning, cricket 🏏, and darts 🎯.
