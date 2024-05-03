@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MRes Student
+role: First Year PhD Candidate
 
 # Organizations/Affiliations
 # organizations:
@@ -22,35 +22,40 @@ role: MRes Student
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Friedrich is a PhD candidate at the CDT React undertaking a MRes in Advanced Molecular Synthesis, before commencing with his PhD. He has completed his MEng in Chemical Engineering at Imperial College London in 2018. His research focuses on the application of machine learning with the chemical engineering domain. His main project entails the conception and development of an interpretable ML-model for chemical retrosynthesis.
+bio: Friedrich is a PhD candidate at the CDT React with a research focus on developing interpretable and reliable machine learning frameworks for chemical retrosynthesis. He is generally interested in the application of deep learning techniques for small molecules and proteins. Prior to his PhD, he was an undergraduate student in the Department of Chemical Engineering at Imperial College London.
 
 interests:
-  - No clue
-  - No clue
+  - Deep Learning in Chemistry
+  - Explainable AI
+  - Generative AI
+  - Bayesian Inference
 
 education:
   courses:
+    - course: MRes Advanced Molecular Synthesis
+      institution: Imperial College London
+      year: 2022-2023    
     - course: MEng in Chemical Engineering
       institution: Imperial College London
-      year: 2022
+      year: 2018-2022
+
+professional experience:
+  experiences:
+    - experience: Summer Intern
+      institution: BASF
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://github.com/fredhastedt
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/fredhastedt
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +68,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MRes Students
+  - Graduate Students
 ---
 
-Friedrich is a PhD candidate at the CDT React undertaking a MRes in Advanced Molecular Synthesis, before commencing with his PhD. He has completed his MEng in Chemical Engineering at Imperial College London in 2018. His research focuses on the application of machine learning with the chemical engineering domain. His main project entails the conception and development of an interpretable ML-model for chemical retrosynthesis.
+Friedrich is a PhD candidate at the CDT React with a research focus on developing interpretable and reliable machine learning frameworks for chemical retrosynthesis. He is generally interested in the application of deep learning techniques for small molecules and proteins. Prior to his PhD, he was an undergraduate student in the Department of Chemical Engineering at Imperial College London.
