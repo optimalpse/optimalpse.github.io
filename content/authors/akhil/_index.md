@@ -22,9 +22,7 @@ role: Third Year PhD Candidate
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Akhil is a PhD candidate working at the intersection of machine learning, optimization and control. He has a proven track record in practical problem solving across diverse industries and domains with research contributions published in various conferences and journals. He graduated with a first class/distinction from the University of Strathclyde in Chemical and Process Engineering and worked as a scientific software developer and
-engineering consultant before commencing his doctoral studies.
-
+bio: Akhil is a PhD candidate working at the intersection of machine learning, optimization and control. He has a proven track record in practical problem solving across diverse industries and domains with research contributions published in various conferences and journals. He graduated with a first class/distinction from the University of Strathclyde in Chemical and Process Engineering and worked as a scientific software developer and engineering consultant before commencing his doctoral studies.
 
 interests:
   - Machine Learning Applied to PSE
@@ -44,7 +42,7 @@ education:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://uk.linkedin.com/in akhil-ahmed-351127164
+    link: https://uk.linkedin.com/in/akhil-ahmed-351127164
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=AS34x7cAAAAJ&hl=en
@@ -64,5 +62,4 @@ user_groups:
   - Graduate Students
 ---
 
-Akhil is a PhD candidate working at the intersection of machine learning, optimization and control. He has a proven track record in practical problem solving across diverse industries and domains with research contributions published in various conferences and journals. He graduated with a first class/distinction from the University of Strathclyde in Chemical and Process Engineering and worked as a scientific software developer and
-engineering consultant before commencing his doctoral studies.
+Akhil is a PhD candidate working at the intersection of machine learning, optimization and control. He has a proven track record in practical problem solving across diverse industries and domains with research contributions published in various conferences and journals. He graduated with a first class/distinction from the University of Strathclyde in Chemical and Process Engineering and worked as a scientific software developer and engineering consultant before commencing his doctoral studies.
