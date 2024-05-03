@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Second Year PhD Candidate
+role: Third Year PhD Candidate
 
 # Organizations/Affiliations
 # organizations:
@@ -25,9 +25,10 @@ role: Second Year PhD Candidate
 bio: Buse is a PhD candiate with research focus on developing safe learning and safe reinforcement learning algorithms to increase autonomy in large-complex cyber-physical systems. She is also interested in fairness and explainability in large models such as LLMs.Before her PhD, she was an undergraduate student at Istanbul Technical University studying a double major in Computer Engineering and Industrial Engineering. Upon her graduation, she worked in the industry as a management consultant and a machine learning engineer.
 
 interests:
-  - Safe Reinforcement Learning
+  - Reinforcement Learning
   - Bayesian Inference
-  - Safety, Explainability and Fairness in AI
+  - Fairness in Large Language Models
+  - Multimodal AI
 
 education:
   courses:
