@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: First Year PhD Candidate
+role: Second Year PhD Candidate
 
 # Organizations/Affiliations
 # organizations:
@@ -22,39 +22,33 @@ role: First Year PhD Candidate
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Niki Kotecha is a PhD Candidate at Imperial College London and is part of I-X. Niki completed her BA and MEng in chemical engineering at the University of Cambridge. Her research focuses on the application of reinforcement learning to supply chains and in the development of intelligent recommender platforms for smart and sustainable scheduling and supply chain operation.
+bio: Niki Kotecha is a PhD Candidate with a research focus on developing reinforcement learning algorithms for inventory control. She is also interested in multi-agent systems applied to supply chain optimisation. Before her PhD, she previously completed her MEng and BA in Chemical Engineering at the University of Cambridge.
 
 interests:
-  - Multi-Agent Reinforcement Learning
-  - Supply Chain Optimization
-  - Scheduling Optimization
+  - Reinforcement Learning 
+  - Supply Chain Optimisation 
+  - Multi-Agent Systems
 
 education:
   courses:
     - course: MEng in Chemical Engineering
       institution: University of Cambridge
       year: 2022
-    - course: BA ?
-      institution: University of Cambridge
-      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/niki-kotecha/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/KotechaNiki
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nikikotecha
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +64,4 @@ user_groups:
   - Graduate Students
 ---
 
-Niki Kotecha is a PhD Candidate at Imperial College London and is part of I-X. Niki completed her BA and MEng in chemical engineering at the University of Cambridge. Her research focuses on the application of reinforcement learning to supply chains and in the development of intelligent recommender platforms for smart and sustainable scheduling and supply chain operation.
+Niki Kotecha is a PhD Candidate with a research focus on developing reinforcement learning algorithms for inventory control. She is also interested in multi-agent systems applied to supply chain optimisation. Before her PhD, she previously completed her MEng and BA in Chemical Engineering at the University of Cambridge.
