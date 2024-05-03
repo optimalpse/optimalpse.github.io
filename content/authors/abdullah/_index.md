@@ -22,8 +22,7 @@ role: Third Year PhD Candidate
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Abdullah is a second-year PhD candidate committed to advancing global sustainability goals through advanced analytics. His research focuses on data-driven optimization techniques designed to decarbonize energy networks, enhance their performance to meet net-zero targets, and facilitate the
-transition towards clean and low-carbon energy hubs. Prior to pursuing his PhD, Abdullah accumulated seven years of industrial experience across various sectors of the energy industry. 
+bio: Abdullah is a second-year PhD candidate committed to advancing global sustainability goals through advanced analytics. His research focuses on data-driven optimization techniques designed to decarbonize energy networks, enhance their performance to meet net-zero targets, and facilitate the transition towards clean and low-carbon energy hubs. Prior to pursuing his PhD, Abdullah accumulated seven years of industrial experience across various sectors of the energy industry. 
 
 interests:
   - Sustainable Energy Systems
