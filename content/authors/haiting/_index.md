@@ -22,12 +22,12 @@ role: Second Year PhD Candidate
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Haiting is a PhD candidate in the chemical engineering department at Imperial College London. Her research focuses on bioprocess dynamic hybrid modelling and optimization. She obtained a first class BEng from The University of Manchester and MSc degree with distinction in advanced chemical engineering from Imperial College London.
+bio: Haiting is a PhD candidate specializing in Digital Twinning for bioprocesses, incorporating hybrid and data-driven models. Her research emphasizes machine learning applications in surrogate modelling, time series prediction, and reinforcement learning for process modelling, scheduling, and optimization in bioengineering. This work has led to a novel framework that merges kinetic modelling with machine learning to optimize dynamic systems. Before her PhD, she was an undergraduate student at Dalian University of Technology and University of Manchester in Chemical Engineering.
 
 interests:
+  - Hybrid modelling
   - Reinforcement Learning
-  - Optimal Control
-  - Process Systems Engineering
+  - Data-driven Optimization
 
 education:
   courses:
@@ -35,7 +35,7 @@ education:
       institution: Imperial College London
       year: 2021
     - course: BEng in Chemical Engineering
-      institution: The University of Manchester
+      institution: Dalian University of Technology and University of Manchester
       year: 2020
 
 # Social/Academic Networking
@@ -43,18 +43,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/haiting-wang-b2b6b0173/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/HaitingWang2
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/HaitingHW
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +67,4 @@ user_groups:
   - Graduate Students
 ---
 
-Haiting is a PhD candidate in the chemical engineering department at Imperial College London. Her research focuses on bioprocess dynamic hybrid modelling and optimization. She obtained a first class BEng from The University of Manchester and MSc degree with distinction in advanced chemical engineering from Imperial College London.
+Haiting is a PhD candidate specializing in Digital Twinning for bioprocesses, incorporating hybrid and data-driven models. Her research emphasizes machine learning applications in surrogate modelling, time series prediction, and reinforcement learning for process modelling, scheduling, and optimization in bioengineering. This work has led to a novel framework that merges kinetic modelling with machine learning to optimize dynamic systems. Before her PhD, she was an undergraduate student at Dalian University of Technology and University of Manchester in Chemical Engineering.
