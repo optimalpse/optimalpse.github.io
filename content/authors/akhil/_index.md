@@ -35,12 +35,30 @@ education:
       institution: University of Strathclyde
       year: 2015-2020
 
+professional experience:
+  experiences:
+    - experience: Research Scientist
+      institution: Alan Turing Institute, KI Insurance, Accenture
+      year: 2022-2023
+    - experience: Scientific Software Developer and Engineering Consultant
+      institution: Petroleum Experts
+      year: 2020-2021
+    - experience: Portfolio Management Intern
+      institution: AIG
+      year: 2019-2019
+    - experience: Investment Management Intern
+      institution: Quilter Cheviot
+      year: 2018
+    - experience: Chemical and Process Engineering Intern
+      institution: GSK
+      year: 2017
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
     link: https://uk.linkedin.com/in/akhil-ahmed-351127164
   - icon: google-scholar
