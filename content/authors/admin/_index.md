@@ -10,7 +10,7 @@ last_name: del Rio Chanona
 superuser: true
 
 # Role/position
-role: Head of the Optimisation and Machine Learning for Process Systems Engineering Group
+role: Principal Investigator of the OptiML 
 
 # Organizations/Affiliations
 organizations:
@@ -20,11 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: "Research interest"
 
-interests:
-  - Fill here
-  - Fill here
-  - Fill here
-
 education:
   courses:
     - course: PhD in Chemical Engineering
@@ -32,25 +27,20 @@ education:
       year: 2017
     - course: BSc in Chemical Engineering
       institution: National Autonomous University of Mexico
-      year: don't know
+      year: INSERT
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/antonioe89?lang=en
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=iitJzzwAAAAJ&hl=es
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +59,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Antonio del Rio Chanona is the head of the Optimisation and Machine Learning for Process Systems Engineering group based in thee Department of Chemical Engineering, as well as the Centre for Process Systems Engineering at Imperial College London. His work is at the forefront of integrating advanced computer algorithms from optimization, machine learning, and reinforcement learning into engineering systems, with a particular focus on bioprocess control, optimization, and scale-up. Dr. del Rio Chanona earned his PhD from the Department of Chemical Engineering and Biotechnology at the University of Cambridge, where his outstanding research earned him the prestigious Danckwerts-Pergamon award for the best PhD dissertation of 2017. He completed his undergraduate studies at the National Autonomous University of Mexico (UNAM), which laid the foundation for his expertise in engineering.
