@@ -10,7 +10,7 @@ last_name: del Rio Chanona
 superuser: true
 
 # Role/position
-role: Principal Investigator of the OptiML 
+role: Principal Investigator of OptiML 
 
 # Organizations/Affiliations
 organizations:
