@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow
+role: AI Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 # organizations:
