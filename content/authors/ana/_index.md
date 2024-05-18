@@ -76,7 +76,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Researchers
+  - Postdoctoral Researchers
 ---
 
 A results-driven research associate, Ana possesses expertise in modeling, simulation, and optimization of industrial processes, particularly gas separation systems. Her work centers on improving efficiency and performance within carbon capture processes, leading to cost reductions and a more sustainable operational footprint. Her interests lie in process system engineering, hybrid modeling, digital twins, and furthering advancements in carbon capture technology.

@@ -73,7 +73,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Researchers
+  - PhD Students
 ---
 
 Emma graduated with first class honours in 2023 from Imperial College London, earning a Master of Engineering (MEng) degree in Chemical Engineering. During her studies, she received the Katrina Jacks Memorial Award, recognising her outstanding merit and significant contributions in her final year. Emma is currently a PhD Candidate in the React Centre for Doctoral Training, where she is engaged in an MRes industrial research project focused on using machine learning (ML) to gain deeper insights into large-scale chemical value chains. Her research is part of the Innovative Continuous Manufacturing of Industrial Chemicals (IConIC) partnership and is conducted in collaboration with BASF, a world-leading chemical company. Emma is particularly interested in projects and collaborations that drive commercial value through industry-focused solutions.

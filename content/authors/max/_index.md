@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Researchers
+  - PhD Students
 ---
 
 Max is a PhD student with a research interest in applying and developing deep reinforcement learning algorithms for chemical process control. Before starting his PhD, he completed his undergraduate degree at the University of Edinburgh and his Masters degree at Imperial College London. Also, he has worked in industry as a process engineering consultant.

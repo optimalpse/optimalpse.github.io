@@ -72,7 +72,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Researchers
+  - PhD Students
 ---
 
 Abdullah is a second-year PhD candidate committed to advancing global sustainability goals through advanced analytics. His research focuses on data-driven optimization techniques designed to decarbonize energy networks, enhance their performance to meet net-zero targets, and facilitate the

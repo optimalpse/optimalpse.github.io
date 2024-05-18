@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Researchers
+  - Visitors
 ---
 
 José Torraca is a visiting PhD student at Imperial College London, specializing in safe reinforcement learning for chemical processes. His research is focused on developing algorithms that enhance safety and efficiency, ensuring robust process control in dynamic and uncertain environments. He is also a PhD researcher in a partnership between the Laboratory of Software Development (LADES), PEQ/COPPE/UFRJ, and Petrobras. His work includes implementing process monitoring and control algorithms, focusing on virtual flow metering, and controlling slug flow in oil and gas applications.
