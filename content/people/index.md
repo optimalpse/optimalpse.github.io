@@ -13,8 +13,8 @@ sections:
       user_groups:
           - Principal Investigator
           - Postdoctoral Researchers
-          - Co-supervised PhD Students
           - PhD Students
+          - Co-supervised PhD Students
           - MRes Students
           - Administration
           - Visitors
