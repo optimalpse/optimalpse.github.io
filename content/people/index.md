@@ -12,8 +12,9 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigator
-          - Researchers
-          - PhD Researchers
+          - Postdoctoral Researchers
+          - Co-supervised PhD Students
+          - PhD Students
           - MRes Students
           - Administration
           - Visitors
