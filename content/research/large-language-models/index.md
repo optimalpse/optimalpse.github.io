@@ -6,7 +6,7 @@ sections:
   - block: collection
     id: large-language-models
     content:
-      title: DD0
+      title: Large Language Models
       subtitle: ''
       text:
       # Choose how many pages you would like to display (0 = all pages)
@@ -15,7 +15,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - post/machine-assisted-synthesis
+          - post/machine-assisted-synthesis/
         category: ""
         tag: ""
         publication_type: ""
