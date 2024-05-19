@@ -131,31 +131,6 @@
   }
 }
 
-.article-metadata {
-  margin-bottom: 15px;
-  overflow: hidden;
-  font-size: 16px;
-  letter-spacing: 0.03em;
-  color: rgba(0, 0, 0, 0.54);
-
-  a {
-    color: rgba(0, 0, 0, 0.54);
-  }
-
-  a:hover {
-    color: $sta-primary;
-  }
-
-  .author-notes {
-    cursor: help;
-    padding-left: 3px;
-  }
-
-  .author-highlighted {
-    font-weight: bold;
-  }
-}
-
 /* For article page only, not lists. */
 article .article-metadata {
   margin-bottom: 20px;
