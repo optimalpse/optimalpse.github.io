@@ -17,6 +17,10 @@ Here we outline some recommended material for students wishing to start on topic
 - [Prerequisites](#prerequisites)
 - [Remarks](#remarks)
 
+</div>
+
+<div class="two-column">
+
 <div class="topic-box">
 
 ## Optimization

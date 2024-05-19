@@ -9,9 +9,15 @@
 }
 
 .topic-box {
-  border: 1px solid #ccc;
+  break-inside: avoid;
+  border: 1px solid #001dfd;
   border-radius: 5px;
   padding: 20px;
   margin-bottom: 20px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 4px rgba(106, 154, 243, 0.1);
+}
+
+.two-column {
+  column-count: 2;
+  column-gap: 40px;
 }
