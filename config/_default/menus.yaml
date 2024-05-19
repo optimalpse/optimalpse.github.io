@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Data-Driven Optimization
     parent: research
-    url: research/data-driven-opimization
+    url: research/data-driven-optimization
     weight: 2
   - name: Reinforcement Learning
     parent: research
@@ -17,11 +17,11 @@ main:
     weight: 4
   - name: Bayesian Optimization
     parent: research
-    url: research/bayesian-opimization
+    url: research/bayesian-optimization
     weight: 1
   - name: Supply Chain Optimization
     parent: research
-    url: research/supply-chain-opimization
+    url: research/supply-chain-optimization
     weight: 3
   - name: Hybrid Modelling
     parent: research
