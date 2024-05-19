@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Akhil Ahmed | OptiML PSE</title><link>https://optimalpse.github.io/author/akhil-ahmed/</link><atom:link href="https://optimalpse.github.io/author/akhil-ahmed/index.xml" rel="self" type="application/rss+xml"/><description>Akhil Ahmed</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate><image><url>https://optimalpse.github.io/author/akhil-ahmed/avatar_hu2373db833de72da6b6df544944e7a7d8_21592_270x270_fill_q75_lanczos_center.jpg</url><title>Akhil Ahmed</title><link>https://optimalpse.github.io/author/akhil-ahmed/</link></image><item><title>Enhancing Process Performance - Adversarially Robust Real-Time Optimization and Control</title><link>https://optimalpse.github.io/post/adversarially-robust-rto/</link><pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate><guid>https://optimalpse.github.io/post/adversarially-robust-rto/</guid><description>&lt;table>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Akhil Ahmed | OptiML PSE</title><link>https://optimalpse.github.io/author/akhil-ahmed/</link><atom:link href="https://optimalpse.github.io/author/akhil-ahmed/index.xml" rel="self" type="application/rss+xml"/><description>Akhil Ahmed</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate><image><url>https://optimalpse.github.io/author/akhil-ahmed/avatar_hu2373db833de72da6b6df544944e7a7d8_21592_270x270_fill_q90_lanczos_center.jpg</url><title>Akhil Ahmed</title><link>https://optimalpse.github.io/author/akhil-ahmed/</link></image><item><title>Enhancing Process Performance - Adversarially Robust Real-Time Optimization and Control</title><link>https://optimalpse.github.io/post/adversarially-robust-rto/</link><pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate><guid>https://optimalpse.github.io/post/adversarially-robust-rto/</guid><description>&lt;table>
 &lt;thead>
 &lt;tr>
 &lt;th>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
-/post/adversarially-robust-rto/featured_hu63da2c1af1c376b8fb2aa052842c3fe5_291394_b49de48b398d2c7f55adad04ae650a02.webp 400w,
-/post/adversarially-robust-rto/featured_hu63da2c1af1c376b8fb2aa052842c3fe5_291394_c97b6abcdc88533565a4ed2ad3174753.webp 760w,
-/post/adversarially-robust-rto/featured_hu63da2c1af1c376b8fb2aa052842c3fe5_291394_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://optimalpse.github.io/post/adversarially-robust-rto/featured_hu63da2c1af1c376b8fb2aa052842c3fe5_291394_b49de48b398d2c7f55adad04ae650a02.webp"
+/post/adversarially-robust-rto/featured_hu63da2c1af1c376b8fb2aa052842c3fe5_291394_1065c1097d166b8d4c6ca72ff2d2b5f8.webp 400w,
+/post/adversarially-robust-rto/featured_hu63da2c1af1c376b8fb2aa052842c3fe5_291394_af3d45c807c67acd8424bd7ee1b80f8f.webp 760w,
+/post/adversarially-robust-rto/featured_hu63da2c1af1c376b8fb2aa052842c3fe5_291394_1200x1200_fit_q90_h2_lanczos.webp 1200w"
+src="https://optimalpse.github.io/post/adversarially-robust-rto/featured_hu63da2c1af1c376b8fb2aa052842c3fe5_291394_1065c1097d166b8d4c6ca72ff2d2b5f8.webp"
 width="760"
 height="538"
 loading="lazy" data-zoomable />&lt;/div>
@@ -18,10 +18,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
-/post/adversarially-robust-rto/Fig1b_hu447be7f63e7709d5877a7cd7a506c71e_486799_3ba996b7e5830e912eaf4021c8d3338a.webp 400w,
-/post/adversarially-robust-rto/Fig1b_hu447be7f63e7709d5877a7cd7a506c71e_486799_29b5365abb3bbdfdcbbb6ade8e58a75e.webp 760w,
-/post/adversarially-robust-rto/Fig1b_hu447be7f63e7709d5877a7cd7a506c71e_486799_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://optimalpse.github.io/post/adversarially-robust-rto/Fig1b_hu447be7f63e7709d5877a7cd7a506c71e_486799_3ba996b7e5830e912eaf4021c8d3338a.webp"
+/post/adversarially-robust-rto/Fig1b_hu447be7f63e7709d5877a7cd7a506c71e_486799_97779a4350352ed4a55a3bdc6bb4dea2.webp 400w,
+/post/adversarially-robust-rto/Fig1b_hu447be7f63e7709d5877a7cd7a506c71e_486799_eb15451cc94736a2752c512aadea93fe.webp 760w,
+/post/adversarially-robust-rto/Fig1b_hu447be7f63e7709d5877a7cd7a506c71e_486799_1200x1200_fit_q90_h2_lanczos_3.webp 1200w"
+src="https://optimalpse.github.io/post/adversarially-robust-rto/Fig1b_hu447be7f63e7709d5877a7cd7a506c71e_486799_97779a4350352ed4a55a3bdc6bb4dea2.webp"
 width="760"
 height="515"
 loading="lazy" data-zoomable />&lt;/div>
