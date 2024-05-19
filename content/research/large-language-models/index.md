@@ -3,7 +3,7 @@ title: My page
 type: landing
 
 sections:
-  - block: research
+  - block: collection
     id: large-language-models
     content:
       title: DD0

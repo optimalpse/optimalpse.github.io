@@ -3,7 +3,7 @@ title: My page
 type: landing
 
 sections:
-  - block: research
+  - block: collection
     id: data-driven-optimization
     content:
       title: DD0
