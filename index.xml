@@ -4,7 +4,250 @@
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Automated Knowledge Discovery</title><link>https://optimalpse.github.io/post/automated-knowledge-discovery/</link><pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate><guid>https://optimalpse.github.io/post/automated-knowledge-discovery/</guid><description>&lt;div style="text-align: justify">
+&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Learning Resources</title><link>https://optimalpse.github.io/learning-resources/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>https://optimalpse.github.io/learning-resources/</guid><description>&lt;div style="text-align: justify">
+# Learning Resources
+&lt;p>Here we outline some recommended material for students wishing to start on topics related to optimisation, artificial intelligence and dynamic systems from the process systems perspective.&lt;/p>
+&lt;h2 id="optimization">Optimization&lt;/h2>
+&lt;h3 id="books">Books&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Numerical Optimization&lt;/strong> by J. Nocedal and S. Wright
+&lt;ul>
+&lt;li>Great book to learn continuous optimization algorithms, the suggestion it to implementing pseudo-codes in your language of choice as you traverse through the book.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Nonlinear and Mixed-Integer Optimization: Fundamentals and Applications&lt;/strong> by C. A. Floudas
+&lt;ul>
+&lt;li>A favorite source to learn convex mixed-integer optimization.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Algorithms for Optimization&lt;/strong> by Mykel J. Kochenderfer and Tim A. Wheeler
+&lt;ul>
+&lt;li>A comprehensive introduction to optimization, focus is on algorithm implementation rather than theoretical background, includes algorithms written in Julia.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="online-courses">Online Courses&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Convex Optimization I&lt;/strong> and &lt;strong>Convex Optimization II&lt;/strong> by S. Boyd
+&lt;ul>
+&lt;li>Great content all over! Lectures 13-19 of COI and all COII are great, and generally underrated. An online book is also available.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Discrete Optimization&lt;/strong> by P. Van Hentenryck and C. Coffrin from Coursera learning platform
+&lt;ul>
+&lt;li>Interactive and very fun course to learn discrete optimization.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Deterministic Optimization&lt;/strong> by S. Ahmed from edX learning platform
+&lt;ul>
+&lt;li>A great interactive course which gives an overview to many optimization instances and problems, also accompanied with practical material.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="reinforcement-learning">Reinforcement Learning&lt;/h2>
+&lt;h3 id="books-1">Books&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Reinforcement Learning: An Introduction&lt;/strong> by R. S. Sutton and A. G. Barto
+&lt;ul>
+&lt;li>One of the most complete books on the subject, latest version is from 2018. Complements nicely with online courses. Freely available online.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>The Reinforcement Learning Specialization by Martha White and Adam White from Coursera covers a significant part of this book.&lt;/li>
+&lt;/ul>
+&lt;h3 id="online-courses-1">Online Courses&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Deep Reinforcement Learning&lt;/strong> by Sergey Levine at UC Berkeley
+&lt;ul>
+&lt;li>Great content, including YouTube videos, homework, a subreddit, GitHub repositories, etc.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Reinforcement Learning&lt;/strong> by David Silver
+&lt;ul>
+&lt;li>Nice and easy material to understand.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Reinforcement Learning Specialization&lt;/strong> by Martha White and Adam White from Coursera learning platform
+&lt;ul>
+&lt;li>The course is mostly based on the book &amp;ldquo;Reinforcement Learning: An Introduction&amp;rdquo; by Sutton and Barto, making it a more interactive way to go through the book if that suits your learning style.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Reinforcement Learning&lt;/strong> by Emma Brunskill at Stanford
+&lt;ul>
+&lt;li>All videos and assignments are available, YouTube list &lt;a href="https://www.youtube.com/playlist?list=PLuBib0ZpH85femD3SC8mEK84sBbGEPX8l" target="_blank" rel="noopener">here&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Practical Reinforcement Learning&lt;/strong> by P. Shvechikov and A. Panin from Coursera learning platform
+&lt;ul>
+&lt;li>Good overall content and intuitive explanations, includes online quizzes and exercises.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="applied-statistics">Applied Statistics&lt;/h2>
+&lt;h3 id="books-2">Books&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Information Theory, Inference, and Learning Algorithms&lt;/strong> by David MacKay
+&lt;ul>
+&lt;li>Great all-round book, conceptually clear and at the same time practical when it comes to algorithms. It is great for beginners but also useful for practitioners.&lt;/li>
+&lt;li>Online lectures based on the book also available &lt;a href="https://www.inference.org.uk/mackay/itila/" target="_blank" rel="noopener">here&lt;/a> or on &lt;a href="https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iS0E_g4lTMkKRYGa" target="_blank" rel="noopener">YouTube&lt;/a>.&lt;/li>
+&lt;li>The book is freely available &lt;a href="https://www.inference.org.uk/itila/book.html" target="_blank" rel="noopener">here&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="online-courses-2">Online Courses&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Bayesian Statistics: From Concept to Data Analysis&lt;/strong> by Herbert Lee from Coursera learning platform
+&lt;ul>
+&lt;li>A great introduction to Bayesian thinking.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Bayesian Statistics: Techniques and Models&lt;/strong> by Matthew Heiner from Coursera learning platform
+&lt;ul>
+&lt;li>A continuation from the above course.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Bayesian Methods for Machine Learning&lt;/strong> by D. Polykovskiy and Al. Novikov
+&lt;ul>
+&lt;li>Nice practical examples and intuitive explanations on ML algorithms based on Bayesian thinking. Includes topics such as Variational Autoencoder, Gaussian processes &amp;amp; Bayesian optimization.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Information Theory, Pattern Recognition, and Neural Networks&lt;/strong> by David MacKay
+&lt;ul>
+&lt;li>Great source to learn information theory, very intuitive and clear explanations.&lt;/li>
+&lt;li>Based on a freely available &lt;a href="https://www.inference.org.uk/mackay/itprnn/" target="_blank" rel="noopener">book&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="dynamic-optimization-optimal-control-and-mpc">Dynamic Optimization (Optimal control) and MPC&lt;/h2>
+&lt;h3 id="books-3">Books&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Dynamic Programming and Optimal Control&lt;/strong> by D. P. Bertsekas
+&lt;ul>
+&lt;li>Nice presentation that shows the relations between Dynamic Programming and Optimal Control. Written from a computer science perspective.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Predictive Control: With Constraints&lt;/strong> by J. Maciejowski
+&lt;ul>
+&lt;li>Good introductory material to Model Predictive Control.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Numerical Optimal Control&lt;/strong> by M. Diehl and S. Gros
+&lt;ul>
+&lt;li>Great source on how to solve OC problems numerically, goes very well with his online course.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Nonlinear and Dynamic Optimization: From Theory to Practice&lt;/strong> by B. Chachuat
+&lt;ul>
+&lt;li>This is a great source for a formal and complete description of dynamic optimization problems in engineering practice. It might be slightly more mathematically demanding than the three previous sources.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Model Predictive Control: Theory, Computation, and Design&lt;/strong> by J. B. Rawlings, D. Q. Mayne and M. M. Diehl
+&lt;ul>
+&lt;li>Probably the most complete book on linear MPC, although it might be a difficult read for a beginner in the topic.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="online-courses-3">Online Courses&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Numerical Optimal Control&lt;/strong> by M. Diehl
+&lt;ul>
+&lt;li>Very complete learning material, goes very well with his book.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Underactuated Robotics&lt;/strong> by R. Tedrake, R. Deits and T. Koolen from edX learning platform
+&lt;ul>
+&lt;li>A nice course which covers topics on Dynamic Programming, Control and Dynamic Optimization (can also be found &lt;a href="http://underactuated.mit.edu/" target="_blank" rel="noopener">here&lt;/a>).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Nptel&lt;/strong> by the Indian Institutes of Technology (IIT) and Indian Institute of Science (IISc)
+&lt;ul>
+&lt;li>There are great courses on this site, however, those on Control, State Estimation, Model Predictive Control, and Optimal Control seem particularly good.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="linear-algebra">Linear Algebra&lt;/h2>
+&lt;h3 id="books-4">Books&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Introduction to Linear Algebra&lt;/strong> by G. Strang
+&lt;ul>
+&lt;li>Great presentation and intuition on the topic, goes well with his online video lectures.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Linear Algebra&lt;/strong> by Jim Hefferon
+&lt;ul>
+&lt;li>Freely available online, very enjoyable exercises.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="online-courses-4">Online Courses&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Linear Algebra - Foundations to Frontiers&lt;/strong> by M. Myers and R. van de Geijn from edX learning platform
+&lt;ul>
+&lt;li>Great course, gives mathematical background as well as great practical exercises.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Linear Algebra&lt;/strong> by G. Strang
+&lt;ul>
+&lt;li>Similar to his book, Linear Algebra is presented in a very intuitive and easy to understand fashion.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="machine-learning">Machine Learning&lt;/h2>
+&lt;h3 id="books-5">Books&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Deep Learning&lt;/strong> by I. Goodfellow, Y. Bengio and A. Courville
+&lt;ul>
+&lt;li>Authored by pioneers on the field, freely available. Probably the best book on Deep Learning.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Hands-On Machine Learning with Scikit-Learn and TensorFlow&lt;/strong> by A. Geron
+&lt;ul>
+&lt;li>For people who want to learn ML by doing practical examples.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="online-courses-5">Online Courses&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Deep Learning Specialization&lt;/strong> by Andrew Ng, K. Katanforoosh and B. Mourri from Coursera learning platform
+&lt;ul>
+&lt;li>A series of 5 courses, that take you from knowing nothing to a very good understanding and practical training on deep learning. Explanations need a minimum mathematical requirement.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Machine Learning&lt;/strong> by Andrew Ng
+&lt;ul>
+&lt;li>The course that made Andrew Ng famous. A very nice course, although might be slightly outdated. You can also find his course at Stanford &lt;a href="https://see.stanford.edu/Course/CS229" target="_blank" rel="noopener">here&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>This section outlines useful material that can help polish your math and programming skills before (or while) you are learning optimization and/or machine learning.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Linear Algebra&lt;/strong>
+&lt;ul>
+&lt;li>Although there is a whole section about linear algebra, I thought I should emphasize it, as it is one of the pillars for both optimization and machine learning.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Python programming&lt;/strong>
+&lt;ul>
+&lt;li>There is a HUGE number of python courses, and even a significant number of online posts ranking the different courses, so a little google search might be the best way to find the best course for you.&lt;/li>
+&lt;li>A course I am confident recommending is &lt;a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python" target="_blank" rel="noopener">Introduction to Computer Science and Programming Using Python&lt;/a> by MIT on the edX learning platform. Very complete course, although it is quite time consuming.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Mathematics for Machine Learning&lt;/strong> by Imperial College London
+&lt;ul>
+&lt;li>A three course specialization, focusing on linear algebra, multivariate calculus, and principal component analysis.&lt;/li>
+&lt;li>Book freely available &lt;a href="https://mml-book.github.io/" target="_blank" rel="noopener">here&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Algorithms Specialization&lt;/strong> by Tim Roughgarden from Stanford at the Coursera platform
+&lt;ul>
+&lt;li>A very nice course that teaches the fundamentals of the design and analysis of algorithms. Focuses particularly on the practical aspects, but also gives some theory, and makes thinking algorithmically quite fun.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="remarks">Remarks&lt;/h2>
+&lt;p>Note that blogs, GitHub repositories, YouTube symposiums, online classes and tutorials can be excellent learning material. Particularly for ML, RL and DL there are new courses and tutorials coming out every day! Maybe worthwhile exploring the web on your own :).&lt;/p>
+&lt;p>You can have a look at our codes section for some code-tutorials developed by the group, or to our additional resources section, where we list some podcasts, blogs, and other sites that might be of interest.&lt;/p>
+&lt;/div></description></item><item><title>Automated Knowledge Discovery</title><link>https://optimalpse.github.io/post/automated-knowledge-discovery/</link><pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate><guid>https://optimalpse.github.io/post/automated-knowledge-discovery/</guid><description>&lt;div style="text-align: justify">
 Automated knowledge discovery streamlines the process of identifying meaningful mathematical models from experimental data. By employing algorithms that can recognise patterns and derive equations, this approach facilitates the creation of predictive and interpretable models for chemical reactions. This is particularly important in fields like reaction engineering, where understanding the dynamics of chemical systems is crucial for process design, optimisation and control. Automated knowledge discovery methods not only speed up the discovery of kinetic models but also enhances our understanding of complex chemical processes through symbolic models, making them a powerful tool in chemical process development.
 &lt;/div>
 &lt;p>&lt;a href="https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00212h" target="_blank" rel="noopener">Link to publication.&lt;/a>&lt;/p></description></item><item><title>Data-driven Distributionally Robust MPC</title><link>https://optimalpse.github.io/post/ddd-robust-mpc/</link><pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate><guid>https://optimalpse.github.io/post/ddd-robust-mpc/</guid><description>&lt;table>
