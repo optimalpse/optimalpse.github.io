@@ -2,9 +2,15 @@
 title: "Learning Resources"
 date: 2024-05-19
 draft: false
----
+type: landing
 
-Here we outline some recommended material for students wishing to start on topics related to optimisation, artificial intelligence and dynamic systems from the process systems perspective.
+sections: 
+  - block: markdown
+  - id: learning-resources
+  - content: 
+    - title: Learning Resources
+    - subtitle: ''
+    - text: Here we outline some recommended material for students wishing to start on topics related to optimisation, artificial intelligence and dynamic systems from the process systems perspective.
 
 ## Table of Contents
 - [Optimization](#optimization)
@@ -178,3 +184,4 @@ You can have a look at our codes section for some code-tutorials developed by th
 </div>
 
 </div>
+---
