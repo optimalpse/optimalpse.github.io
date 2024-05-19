@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Data-Driven Optimization
     parent: research
-    url: data-driven-opimization
+    url: research/data-driven-opimization
     weight: 10
   - name: News
     url: news
