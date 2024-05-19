@@ -3,7 +3,7 @@ title: "Learning Resources"
 date: 2024-05-19
 draft: false
 ---
-<div class="container-learning-resources">
+<div class="container">
 
 Here we outline some recommended material for students wishing to start on topics related to optimisation, artificial intelligence and dynamic systems from the process systems perspective.
 
