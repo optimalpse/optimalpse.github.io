@@ -4,7 +4,7 @@
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Learning Resources</title><link>https://optimalpse.github.io/learning-resources/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>https://optimalpse.github.io/learning-resources/</guid><description>&lt;div style="text-align: justify">
+&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Learning Resources</title><link>https://optimalpse.github.io/learning-resources/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>https://optimalpse.github.io/learning-resources/</guid><description>&lt;div class="container-learning-resources">
 &lt;p>Here we outline some recommended material for students wishing to start on topics related to optimisation, artificial intelligence and dynamic systems from the process systems perspective.&lt;/p>
 &lt;h2 id="table-of-contents">Table of Contents&lt;/h2>
 &lt;ul>
@@ -17,8 +17,6 @@
 &lt;li>&lt;a href="#prerequisites">Prerequisites&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#remarks">Remarks&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;/div>
-&lt;div class="container-learning-resources">
 &lt;div class="two-column">
 &lt;div class="topic-box">
 &lt;h2 id="optimization">Optimization&lt;/h2>
