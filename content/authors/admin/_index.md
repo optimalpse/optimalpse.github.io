@@ -27,7 +27,7 @@ education:
       year: 2017
     - course: BSc in Chemical Engineering
       institution: National Autonomous University of Mexico
-      year: INSERT
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
