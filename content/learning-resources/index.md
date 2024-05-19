@@ -7,6 +7,18 @@ draft: false
 
 Here we outline some recommended material for students wishing to start on topics related to optimisation, artificial intelligence and dynamic systems from the process systems perspective.
 
+## Table of Contents
+- [Optimization](#optimization)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Applied Statistics](#applied-statistics)
+- [Dynamic Optimization (Optimal control) and MPC](#dynamic-optimization-optimal-control-and-mpc)
+- [Linear Algebra](#linear-algebra)
+- [Machine Learning](#machine-learning)
+- [Prerequisites](#prerequisites)
+- [Remarks](#remarks)
+
+<div class="topic-box">
+
 ## Optimization
 
 ### Books
@@ -24,6 +36,10 @@ Here we outline some recommended material for students wishing to start on topic
   - Interactive and very fun course to learn discrete optimization.
 - **Deterministic Optimization** by S. Ahmed from edX learning platform
   - A great interactive course which gives an overview to many optimization instances and problems, also accompanied with practical material.
+
+</div>
+
+<div class="topic-box">
 
 ## Reinforcement Learning
 
@@ -44,6 +60,10 @@ Here we outline some recommended material for students wishing to start on topic
 - **Practical Reinforcement Learning** by P. Shvechikov and A. Panin from Coursera learning platform
   - Good overall content and intuitive explanations, includes online quizzes and exercises.
 
+</div>
+
+<div class="topic-box">
+
 ## Applied Statistics
 
 ### Books
@@ -62,6 +82,10 @@ Here we outline some recommended material for students wishing to start on topic
 - **Information Theory, Pattern Recognition, and Neural Networks** by David MacKay
   - Great source to learn information theory, very intuitive and clear explanations.
   - Based on a freely available [book](https://www.inference.org.uk/mackay/itprnn/).
+
+</div>
+
+<div class="topic-box">
 
 ## Dynamic Optimization (Optimal control) and MPC
 
@@ -85,6 +109,10 @@ Here we outline some recommended material for students wishing to start on topic
 - **Nptel** by the Indian Institutes of Technology (IIT) and Indian Institute of Science (IISc)
   - There are great courses on this site, however, those on Control, State Estimation, Model Predictive Control, and Optimal Control seem particularly good.
 
+</div>
+
+<div class="topic-box">
+
 ## Linear Algebra
 
 ### Books
@@ -99,6 +127,10 @@ Here we outline some recommended material for students wishing to start on topic
 - **Linear Algebra** by G. Strang
   - Similar to his book, Linear Algebra is presented in a very intuitive and easy to understand fashion.
 
+</div>
+
+<div class="topic-box">
+
 ## Machine Learning
 
 ### Books
@@ -112,6 +144,10 @@ Here we outline some recommended material for students wishing to start on topic
   - A series of 5 courses, that take you from knowing nothing to a very good understanding and practical training on deep learning. Explanations need a minimum mathematical requirement.
 - **Machine Learning** by Andrew Ng
   - The course that made Andrew Ng famous. A very nice course, although might be slightly outdated. You can also find his course at Stanford [here](https://see.stanford.edu/Course/CS229).
+
+</div>
+
+<div class="topic-box">
 
 ## Prerequisites
 
@@ -128,9 +164,16 @@ This section outlines useful material that can help polish your math and program
 - **Algorithms Specialization** by Tim Roughgarden from Stanford at the Coursera platform
   - A very nice course that teaches the fundamentals of the design and analysis of algorithms. Focuses particularly on the practical aspects, but also gives some theory, and makes thinking algorithmically quite fun.
 
+</div>
+
+<div class="topic-box">
+
 ## Remarks
 
 Note that blogs, GitHub repositories, YouTube symposiums, online classes and tutorials can be excellent learning material. Particularly for ML, RL and DL there are new courses and tutorials coming out every day! Maybe worthwhile exploring the web on your own :).
 
 You can have a look at our codes section for some code-tutorials developed by the group, or to our additional resources section, where we list some podcasts, blogs, and other sites that might be of interest.
+
+</div>
+
 </div>
