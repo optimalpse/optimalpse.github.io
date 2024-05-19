@@ -1,12 +1,12 @@
 ---
-title: My page
+title: Data-Driven Optimization
 type: landing
 
 sections:
   - block: collection
     id: data-driven-optimization
     content:
-      title: DD0
+      title: Data-Driven Optimization
       subtitle: ''
       text:
       # Choose how many pages you would like to display (0 = all pages)

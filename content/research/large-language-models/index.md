@@ -1,6 +1,6 @@
 ---
 title: Large Language Models
-type: posts
+type: pages
 
 sections:
   - block: collection
