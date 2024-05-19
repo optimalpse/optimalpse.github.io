@@ -1,12 +1,12 @@
 ---
-title: My page
+title: Reinforcement Learning
 type: landing
 
 sections:
   - block: collection
     id: reinforcement-learning
     content:
-      title: DD0
+      title: Reinforcement Learning
       subtitle: ''
       text:
       # Choose how many pages you would like to display (0 = all pages)
@@ -15,7 +15,9 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - post
+          - post/reinforcement-learning
+          - post/safe-rl-pc
+          - post/marl-sc
         category: ""
         tag: ""
         publication_type: ""

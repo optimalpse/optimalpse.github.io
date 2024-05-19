@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Large Language Models
 type: landing
 
 sections:
@@ -15,7 +15,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - post
+          - post/machine-assisted-synthesis
         category: ""
         tag: ""
         publication_type: ""
