@@ -5,7 +5,11 @@
 
 main:
   - name: Research
-    url: research
+    identifier: research
+    weight: 10
+  - name: Data-Driven Optimization
+    parent: research
+    url: data-driven-topimization
     weight: 10
   - name: News
     url: news
