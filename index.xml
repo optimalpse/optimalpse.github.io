@@ -6,6 +6,18 @@
 &lt;/ul>
 &lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Learning Resources</title><link>https://optimalpse.github.io/learning-resources/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>https://optimalpse.github.io/learning-resources/</guid><description>&lt;div style="text-align: justify">
 &lt;p>Here we outline some recommended material for students wishing to start on topics related to optimisation, artificial intelligence and dynamic systems from the process systems perspective.&lt;/p>
+&lt;h2 id="table-of-contents">Table of Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#optimization">Optimization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#reinforcement-learning">Reinforcement Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#applied-statistics">Applied Statistics&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#dynamic-optimization-optimal-control-and-mpc">Dynamic Optimization (Optimal control) and MPC&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#linear-algebra">Linear Algebra&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#machine-learning">Machine Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#prerequisites">Prerequisites&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#remarks">Remarks&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="topic-box">
 &lt;h2 id="optimization">Optimization&lt;/h2>
 &lt;h3 id="books">Books&lt;/h3>
 &lt;ul>
@@ -43,6 +55,8 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
+&lt;/div>
+&lt;div class="topic-box">
 &lt;h2 id="reinforcement-learning">Reinforcement Learning&lt;/h2>
 &lt;h3 id="books-1">Books&lt;/h3>
 &lt;ul>
@@ -81,6 +95,8 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
+&lt;/div>
+&lt;div class="topic-box">
 &lt;h2 id="applied-statistics">Applied Statistics&lt;/h2>
 &lt;h3 id="books-2">Books&lt;/h3>
 &lt;ul>
@@ -116,6 +132,8 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
+&lt;/div>
+&lt;div class="topic-box">
 &lt;h2 id="dynamic-optimization-optimal-control-and-mpc">Dynamic Optimization (Optimal control) and MPC&lt;/h2>
 &lt;h3 id="books-3">Books&lt;/h3>
 &lt;ul>
@@ -163,6 +181,8 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
+&lt;/div>
+&lt;div class="topic-box">
 &lt;h2 id="linear-algebra">Linear Algebra&lt;/h2>
 &lt;h3 id="books-4">Books&lt;/h3>
 &lt;ul>
@@ -190,6 +210,8 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
+&lt;/div>
+&lt;div class="topic-box">
 &lt;h2 id="machine-learning">Machine Learning&lt;/h2>
 &lt;h3 id="books-5">Books&lt;/h3>
 &lt;ul>
@@ -217,6 +239,8 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
+&lt;/div>
+&lt;div class="topic-box">
 &lt;h2 id="prerequisites">Prerequisites&lt;/h2>
 &lt;p>This section outlines useful material that can help polish your math and programming skills before (or while) you are learning optimization and/or machine learning.&lt;/p>
 &lt;ul>
@@ -243,9 +267,12 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
+&lt;/div>
+&lt;div class="topic-box">
 &lt;h2 id="remarks">Remarks&lt;/h2>
 &lt;p>Note that blogs, GitHub repositories, YouTube symposiums, online classes and tutorials can be excellent learning material. Particularly for ML, RL and DL there are new courses and tutorials coming out every day! Maybe worthwhile exploring the web on your own :).&lt;/p>
 &lt;p>You can have a look at our codes section for some code-tutorials developed by the group, or to our additional resources section, where we list some podcasts, blogs, and other sites that might be of interest.&lt;/p>
+&lt;/div>
 &lt;/div></description></item><item><title>Automated Knowledge Discovery</title><link>https://optimalpse.github.io/post/automated-knowledge-discovery/</link><pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate><guid>https://optimalpse.github.io/post/automated-knowledge-discovery/</guid><description>&lt;div style="text-align: justify">
 Automated knowledge discovery streamlines the process of identifying meaningful mathematical models from experimental data. By employing algorithms that can recognise patterns and derive equations, this approach facilitates the creation of predictive and interpretable models for chemical reactions. This is particularly important in fields like reaction engineering, where understanding the dynamics of chemical systems is crucial for process design, optimisation and control. Automated knowledge discovery methods not only speed up the discovery of kinetic models but also enhances our understanding of complex chemical processes through symbolic models, making them a powerful tool in chemical process development.
 &lt;/div>
