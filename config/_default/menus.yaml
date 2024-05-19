@@ -7,10 +7,6 @@ main:
   - name: Research
     url: research
     weight: 10
-    items:
-      - name: data-driven-optimization
-        url: research/data-driven-optimization
-        weight: 1
   - name: News
     url: news
     weight: 20
