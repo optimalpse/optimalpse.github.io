@@ -5,6 +5,7 @@
 
 main:
   - name: Research
+    url: research
     identifier: research
     weight: 10
   - name: Data-Driven Optimization
