@@ -1,35 +1,13 @@
 ---
 title: Data-Driven Optimization
-type: landing
-
-sections:
-  - block: collection
-    id: data-driven-optimization
-    content:
-      title: Data-Driven Optimization
-      subtitle: ''
-      text:
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - post
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: compact
+authors: ["mathias"]
+date: "2024-05-07"
+image:
+  focal_point: 'top'
 ---
+
+<!--more-->
+
+<div style="text-align: justify">
+Many engineering optimization problems can be described as "costly" black box problems, where the number of function evaluations is constrained. Engineers often create precise models of physical systems that are either differentiable or inexpensive to evaluate. These models can be solved efficiently, and their solutions can be applied to the actual system. However, when gradient information or cost-effective models are not available, it becomes necessary to use efficient optimization methods that rely solely on function evaluations - "data". These data-driven optimization algorithms are tailored to optimize functions without relying on explicit derivative information. The methods generally fall into two primary categories: model-based derivative-free methods, also referred to as surrogate-based optimization, and direct derivative-free methods. Model-based methods use information obtained through sampling the objective function to build, consult and update a model of the objective function during optimization. Direct methods navigate the optimization process based on sampled information only. Situated in-between these two categories are the finite-difference methods, which approximate derivatives using function evaluations.
+</div>
