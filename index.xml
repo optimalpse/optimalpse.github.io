@@ -18,6 +18,7 @@
 &lt;li>&lt;a href="#remarks">Remarks&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/div>
+&lt;div class="container-learning-resources">
 &lt;div class="two-column">
 &lt;div class="topic-box">
 &lt;h2 id="optimization">Optimization&lt;/h2>
@@ -274,6 +275,7 @@
 &lt;h2 id="remarks">Remarks&lt;/h2>
 &lt;p>Note that blogs, GitHub repositories, YouTube symposiums, online classes and tutorials can be excellent learning material. Particularly for ML, RL and DL there are new courses and tutorials coming out every day! Maybe worthwhile exploring the web on your own :).&lt;/p>
 &lt;p>You can have a look at our codes section for some code-tutorials developed by the group, or to our additional resources section, where we list some podcasts, blogs, and other sites that might be of interest.&lt;/p>
+&lt;/div>
 &lt;/div>
 &lt;/div></description></item><item><title>Automated Knowledge Discovery</title><link>https://optimalpse.github.io/post/automated-knowledge-discovery/</link><pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate><guid>https://optimalpse.github.io/post/automated-knowledge-discovery/</guid><description>&lt;div style="text-align: justify">
 Automated knowledge discovery streamlines the process of identifying meaningful mathematical models from experimental data. By employing algorithms that can recognise patterns and derive equations, this approach facilitates the creation of predictive and interpretable models for chemical reactions. This is particularly important in fields like reaction engineering, where understanding the dynamics of chemical systems is crucial for process design, optimisation and control. Automated knowledge discovery methods not only speed up the discovery of kinetic models but also enhances our understanding of complex chemical processes through symbolic models, making them a powerful tool in chemical process development.
