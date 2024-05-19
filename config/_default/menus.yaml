@@ -11,6 +11,38 @@ main:
     parent: research
     url: research/data-driven-opimization
     weight: 10
+  - name: Reinforcement Learning
+    parent: research
+    url: research/reinforcement-learning
+    weight: 10
+  - name: Bayesian Optimization
+    parent: research
+    url: research/bayesian-opimization
+    weight: 10
+  - name: Supply Chain Optimization
+    parent: research
+    url: research/supply-chain-opimization
+    weight: 10
+  - name: Hybrid Modelling
+    parent: research
+    url: research/hybrid-modelling
+    weight: 10
+  - name: Large Language Models
+    parent: research
+    url: research/large-language-models
+    weight: 10 
+  - name: Statistical Learning
+    parent: research
+    url: research/statistical-learning
+    weight: 10
+  - name: Deep Learning in Chemical Engineering
+    parent: research
+    url: research/deep-learning-in-ce
+    weight: 10
+  - name: Process Control
+    parent: research
+    url: research/process-control
+    weight: 10
   - name: News
     url: news
     weight: 20
