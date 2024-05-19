@@ -2,7 +2,6 @@
 title: "Learning Resources"
 date: 2024-05-19
 draft: false
-type: landing
 ---
 <div class="container-learning-resources">
 
