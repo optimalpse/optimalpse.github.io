@@ -18,9 +18,11 @@
 }
 
 .two-column {
-  column-count: 2;
-  column-gap: 40px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 40px;
 }
+
 
 .container-learning-resources {
   max-width: 100%;
