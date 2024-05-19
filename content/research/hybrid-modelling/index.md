@@ -1,35 +1,9 @@
 ---
 title: Hybrid Modelling
-type: landing
-
-sections:
-  - block: collection
-    id: hybrid-modelling
-    content:
-      title: Hybrid Modelling
-      subtitle: ''
-      text:
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - post/dt-bioprocesses
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: compact
+authors: [""]
+date: "2024-05-07"
+image:
+  focal_point: 'top'
 ---
+
+Hybrid Modelling is an emerging research area that combines the strengths of different modeling approaches, such as first-principles models and data-driven models, to create more accurate and robust representations of complex systems. Our research in this field focuses on developing novel methodologies and frameworks that can seamlessly integrate knowledge from different sources, such as physical laws, expert knowledge, and experimental data. By leveraging techniques such as Bayesian inference, transfer learning, and multiscale modeling, we aim to create hybrid models that can capture the underlying dynamics of complex systems across different scales and domains. Our work has applications in various fields, from chemical engineering to biotechnology, where accurate modeling is essential for design, optimization, and decision-making. 

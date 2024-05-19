@@ -1,35 +1,14 @@
 ---
 title: Statistical Learning
-type: landing
-
-sections:
-  - block: collection
-    id: statistical-learning
-    content:
-      title: Statistical Learning
-      subtitle: ''
-      text:
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - post/automated-knowledge-discovery
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: compact
+authors: [""]
+date: "2024-05-07"
+image:
+  focal_point: 'top'
 ---
+
+<!--more-->
+
+<div style="text-align: justify">
+Statistical Learning is a rapidly growing field that combines the principles of statistics and machine learning to extract meaningful insights from data. Our research in this area focuses on developing novel algorithms and models that can handle the challenges posed by high-dimensional, noisy, and incomplete data. One of our primary areas of interest is Symbolic Regression, a powerful technique that aims to discover the underlying mathematical expressions that best describe the relationships within a given dataset.
+
+Symbolic Regression goes beyond traditional regression methods by searching for the optimal combination of mathematical operators, variables, and constants that minimize the error between the model and the observed data. This approach allows for the discovery of interpretable and meaningful equations that can provide deep insights into the underlying physical or biological processes.

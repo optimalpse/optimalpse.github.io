@@ -1,6 +1,6 @@
 ---
 title: Reinforcement Learning
-authors: ["antonio"]
+authors: [""]
 date: "2024-05-07"
 image:
   focal_point: 'top'

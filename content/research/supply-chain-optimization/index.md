@@ -1,35 +1,13 @@
 ---
 title: Supply Chain Optimization
-type: landing
-
-sections:
-  - block: collection
-    id: supply-chain-optimization
-    content:
-      title: Supply Chain Optimization
-      subtitle: ''
-      text:
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - post/automated-knowledge-discovery
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: compact
+authors: [""]
+date: "2024-05-07"
+image:
+  focal_point: 'top'
 ---
+
+<!--more-->
+
+<div style="text-align: justify">
+Supply Chain Optimization is a critical area of research that focuses on improving the efficiency and effectiveness of supply chain operations. This involves the application of mathematical modeling, simulation, and optimization techniques to identify bottlenecks, reduce costs, and improve the overall performance of the supply chain network. Our research in this field aims to develop novel algorithms and frameworks that can handle the complexity and uncertainty inherent in modern supply chains. By leveraging advanced analytics and machine learning techniques, we seek to enable real-time decision-making and adaptive supply chain management. 
+</div>
