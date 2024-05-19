@@ -1,36 +1,8 @@
 ---
 title: Process Control
-type: landing
-
-sections:
-  - block: collection
-    id: process-control
-    content:
-      title: Process Control
-      subtitle: ''
-      text:
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - post/adversarially-robust-rto
-          - post/ddd-robust-mpc
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: compact
+authors: [""]
+date: "2024-05-07"
+image:
+  focal_point: 'top'
 ---
+Process Control is a vital research area that deals with the design and implementation of control strategies for industrial processes. The goal is to maintain process variables, such as temperature, pressure, and flow rate, within desired ranges to ensure product quality, safety, and efficiency. Our research focuses on developing advanced control algorithms that can handle the nonlinear and time-varying nature of industrial processes. By leveraging techniques such as model predictive control, adaptive control, and machine learning, we aim to create intelligent control systems that can autonomously adapt to changing process conditions and optimize performance in real-time. 
