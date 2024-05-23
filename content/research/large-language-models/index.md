@@ -1,35 +1,8 @@
 ---
 title: Large Language Models
-type: pages
-
-sections:
-  - block: collection
-    id: large-language-models
-    content:
-      title: Large Language Models
-      subtitle: ''
-      text:
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - post/machine-assisted-synthesis/
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: compact
+authors: [""]
+date: "2024-05-23"
+image:
+  focal_point: 'top'
 ---
+Our research aims to advance large language models (LLMs) to serve as comprehensive scientific research assistants. We are investigating the current limitations of LLMs in tasks that require deep understanding and reasoning beyond textual data, such as interpreting tables and figures in scientific literature. To address these challenges, we are developing novel approaches to fine-tune pre-trained LLMs, enabling them to generate high-quality, research-focused outputs tailored to specific stages of the scientific process. Our goal is to create a multi-faceted research assistant that can provide specialized support throughout the research pipeline, from literature review and analysis to peer review and rebuttal, ultimately enhancing the efficiency and quality of scientific work.
