@@ -47,9 +47,3 @@ draft: false
 We are a team of passionate individuals dedicated to [...]. Our mission is to [...].
 
 [Add more content about your team or organization]
-
-## Latest Posts
-
-{{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-- [{{ .Title }}]({{ .RelPermalink }})
-{{ end }}
