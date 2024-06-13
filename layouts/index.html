@@ -25,21 +25,17 @@
   {{ partial "widget_page.html" . }}
 {{ end }} -->
 
-<div class="container-fluid" style="margin-left: 50px; margin-right: 50px;">
-  <div class="row">
-    <div class="col-lg-8 col-md-10" style="margin-bottom: 30px;">
-      {{ .Content }}
-    </div>
-    <div class="col-lg-4 col-md-10">
-      <div class="section-heading">
-        <h2>Latest Research Posts</h2>
-      </div>
-      <ul class="list-unstyled">
-        {{ range first 10 (where .Site.RegularPages "Section" "post") }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-        {{ end }}
-      </ul>
-    </div>
+<div class="row">
+  <div class="col-md-8">
+    {{ .Content }}
+  </div>
+  <div class="col-md-4">
+    <h2>Latest Research Posts</h2>
+    <ul>
+      {{ range first 10 (where .Site.RegularPages "Section" "post") }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
   </div>
 </div>
 
