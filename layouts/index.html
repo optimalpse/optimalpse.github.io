@@ -30,9 +30,9 @@
     {{ .Content }}
   </div>
   <div class="col-md-4">
-    <h2>Latest Posts</h2>
+    <h2>Latest Research Posts</h2>
     <ul>
-      {{ range first 5 (where .Site.RegularPages "Section" "post") }}
+      {{ range first 10 (where .Site.RegularPages "Section" "post") }}
       <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>
