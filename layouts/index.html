@@ -15,7 +15,7 @@
 {{ end }}
 {{ end }}
 
-{{/* Generate homepage. */}}
+<!-- {{/* Generate homepage. */}}
 {{ if eq .Type "book" }}
   {{ partial "book_layout.html" . }}
 {{ else if eq .Type "landing" }}
@@ -23,6 +23,21 @@
 {{ else }}
   {{/* If no homepage file is present, fallback to legacy widget page */}}
   {{ partial "widget_page.html" . }}
-{{ end }}
+{{ end }} -->
+<!-- {{- end -}} -->
 
-{{- end -}}
+<!-- {{ define "main" }} -->
+<div class="row">
+  <div class="col-md-8">
+    {{ .Content }}
+  </div>
+  <div class="col-md-4">
+    <h2>Latest Posts</h2>
+    <ul>
+      {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
+{{ end }}
