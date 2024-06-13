@@ -4,11 +4,9 @@
 title: 'ARRTOC: Adversarially Robust Real-Time Optimization and Control'
 subtitle: ''
 summary: ''
-authors: ["akhil"]
-# - Akhil Ahmed
-# - Ehecatl Antonio del Rio-Chanona
-# - Mehmet Mercangoz
+authors:
 - akhil
+- admin
 tags:
 - Electrical Engineering and Systems Science - Systems and Control
 categories: []
