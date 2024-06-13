@@ -69,7 +69,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Researchers
+  - Postdoctoral & Affiliated Researchers
 ---
 
 Dr. Austin Mroz is an Eric and Wendy Schmidt AI in Science Postdoctoral Fellow at Imperial College London. Prior to this, Austin received her PhD under the advisement of Prof. Christopher Hendon in 2021. Here, she focused on developing open source postprocessing software to enhance data
