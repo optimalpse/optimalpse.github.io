@@ -6,10 +6,10 @@ title: Deep Gaussian Process-based Multi-fidelity Bayesian Optimization for Simu
 subtitle: ''
 summary: ''
 authors:
-- Tom Savage
+- tom
 - Nausheen Basha
 - Omar Matar
-- Ehecatl Antonio Del-Rio Chanona
+- admin
 tags:
 - Computer Science - Computational Engineering
 - Finance

@@ -5,9 +5,9 @@ title: A Hybrid Modelling Framework for Dynamic Modelling of Bioprocesses
 subtitle: ''
 summary: ''
 authors:
-- Haiting Wang
+- haiting
 - Cleo Kontoravdi
-- Ehecatl Antonio del Rio Chanona
+- admin
 tags:
 - Bioprocess modelling
 - Hybrid modelling

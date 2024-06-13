@@ -8,7 +8,7 @@ authors:
 - Steven Sachio
 - Max Mowbray
 - Maria M. Papathanasiou
-- Ehecatl Antonio del Rio-Chanona
+- admin
 - Panagiotis Petsagkourakis
 tags:
 - Bilevel optimization

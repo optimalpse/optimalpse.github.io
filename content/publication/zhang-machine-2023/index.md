@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Dongda Zhang
-- Ehecatl Antonio del Rıo Chanona
+- admin
 tags:
 - Computers / Artificial Intelligence / General
 - Computers / Computer Simulation

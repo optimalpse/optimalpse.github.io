@@ -10,7 +10,7 @@ authors:
 - Bovinille Anye Cho
 - Fernando Vega-Ramon
 - Oliver Pennington
-- Ehecatl Antonio del Río-Chanona
+- admin
 - Keju Jing
 - Dongda Zhang
 tags:

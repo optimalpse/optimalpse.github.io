@@ -6,8 +6,8 @@ title: Tube-based distributionally robust model predictive control for nonlinear
 subtitle: ''
 summary: ''
 authors:
-- Zhengang Zhong
-- Ehecatl Antonio del Rio-Chanona
+- zhengang
+- admin
 - Panagiotis Petsagkourakis
 tags:
 - Model predictive control

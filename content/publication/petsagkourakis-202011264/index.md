@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - P. Petsagkourakis
-- I. O. Sandoval
+- ilya
 - E. Bradford
 - D. Zhang
-- E. A. del Rio-Chanona
+- admin
 tags:
 - Reinforcement learning
 - Uncertain dynamic systems

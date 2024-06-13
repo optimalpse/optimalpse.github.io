@@ -6,9 +6,9 @@ title: Hierarchical planning-scheduling-control -- Optimality surrogates and der
 subtitle: ''
 summary: ''
 authors:
-- Damien van de Berg
+- damien
 - Nilay Shah
-- Ehecatl Antonio del Rio-Chanona
+- admin
 tags:
 - Computer Science - Computational Engineering
 - Finance

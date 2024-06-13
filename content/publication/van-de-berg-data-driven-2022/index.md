@@ -5,10 +5,10 @@ title: Data-driven coordination of expensive black-boxes
 subtitle: ''
 summary: ''
 authors:
-- Damien van de Berg
+- damien
 - Panagiotis Petsagkourakis
 - Nilay Shah
-- Ehecatl Antonio del Rio-Chanona
+- admin
 tags:
 - Derivative-free optimization
 - Expensive black-box

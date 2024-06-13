@@ -5,8 +5,8 @@ title: Human-Algorithm Collaborative Bayesian Optimization for Engineering Syste
 subtitle: ''
 summary: ''
 authors:
-- Tom Savage
-- Ehecatl Antonio del Rio Chanona
+- tom
+- admin
 tags:
 - Computer Science - Human-Computer Interaction
 - Computer Science - Machine Learning

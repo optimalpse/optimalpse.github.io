@@ -9,7 +9,7 @@ authors:
 - Yilin Zhuang
 - Yixuan Liu
 - Akhil Ahmed
-- Zhengang Zhong
+- zhengang
 - Ehecatl A. del Rio Chanona
 - Colin P. Hale
 - Mehmet Mercangöz

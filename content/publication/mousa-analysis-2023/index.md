@@ -7,9 +7,9 @@ subtitle: ''
 summary: ''
 authors:
 - Marwan Mousa
-- Damien van de Berg
-- Niki Kotecha
-- Ehecatl Antonio del Rio-Chanona
+- damin
+- niki
+- admin
 - Max Mowbray
 tags:
 - Computer Science - Machine Learning

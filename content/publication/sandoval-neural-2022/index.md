@@ -5,9 +5,9 @@ title: Neural ODEs as Feedback Policies for Nonlinear Optimal Control
 subtitle: ''
 summary: ''
 authors:
-- Ilya Orson Sandoval
+- ilya
 - Panagiotis Petsagkourakis
-- Ehecatl Antonio del Rio-Chanona
+- admin
 tags:
 - Computer Science - Artificial Intelligence
 - Electrical Engineering and Systems Science - Systems and Control

@@ -6,10 +6,10 @@ title: Data-driven coordination of subproblems in enterprise-wide optimization u
 subtitle: ''
 summary: ''
 authors:
-- Damien van de Berg
+- damien
 - Panagiotis Petsagkourakis
 - Nilay Shah
-- Ehecatl Antonio del Rio-Chanona
+- admin
 tags:
 - coordination
 - data-driven optimization

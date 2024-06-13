@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Ilya Stolyarov
-- Ilya Orson Sandoval
+- ilya
 - Panagiotis Petsagkourakis
-- Ehecatl Antonio del Rio-Chanona
+- admin
 tags:
 - Data Driven Models
 - Hybrid System Identification

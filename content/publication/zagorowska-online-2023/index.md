@@ -9,9 +9,9 @@ authors:
 - M. Zagorowska
 - M. Degner
 - L. Ortmann
-- A. Ahmed
+- akhil
 - S. Bolognani
-- E. A. del Rio Chanona
+- admin
 - M. Mercangöz
 tags:
 - Compressors

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Luxi Yu
-- Ehecatl Antonio del Rio Chanona
+- admin
 - Cleo Kontoravdi
 tags:
 - Antibody Bioprocessing

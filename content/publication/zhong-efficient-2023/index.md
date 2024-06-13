@@ -5,8 +5,8 @@ title: An efficient data-driven distributionally robust MPC leveraging linear pr
 subtitle: ''
 summary: ''
 authors:
-- Zhengang Zhong
-- Ehecatl Antonio Del Rio-Chanona
+- zhengang
+- admin
 - Panagiotis Petsagkourakis
 tags:
 - Additives

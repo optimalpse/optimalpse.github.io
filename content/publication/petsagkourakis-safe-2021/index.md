@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Panagiotis Petsagkourakis
 - Benoit Chachuat
-- Ehecatl Antonio del Rio-Chanona
+- admin
 tags:
 - Conferences
 - Gaussian processes

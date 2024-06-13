@@ -5,12 +5,12 @@ title: Data-driven optimization for process systems engineering applications
 subtitle: ''
 summary: ''
 authors:
-- Damien van de Berg
-- Thomas Savage
+- damien
+- tom
 - Panagiotis Petsagkourakis
 - Dongda Zhang
 - Nilay Shah
-- Ehecatl Antonio del Rio-Chanona
+- admin
 tags:
 - Surrogate optimization
 - Black box optimization

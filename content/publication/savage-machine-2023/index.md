@@ -5,11 +5,11 @@ title: Machine Learning-Assisted Discovery of Novel Reactor Designs
 subtitle: ''
 summary: ''
 authors:
-- Tom Savage
+- tom
 - Nausheen Basha
 - Jonathan McDonough
 - Omar K. Matar
-- Ehecatl Antonio del Rio Chanona
+- admin
 tags:
 - Computer Science - Computational Engineering
 - Finance

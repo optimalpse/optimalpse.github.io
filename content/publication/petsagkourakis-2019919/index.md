@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - P. Petsagkourakis
-- I. Orson Sandoval
+- ilya
 - E. Bradford
 - D. Zhang
-- E. A. del Rio-Chanona
+- admin
 tags:
 - Reinforcement Learning
 - Batch Process

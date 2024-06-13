@@ -16,7 +16,7 @@ authors:
 - Ali Mesbah
 - Fani Boukouvala
 - Fernando V. Lima
-- Antonio del Rio Chanona
+- admin
 - Christos Georgakis
 tags:
 - Control

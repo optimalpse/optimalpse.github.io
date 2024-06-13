@@ -5,13 +5,13 @@ title: The Automated Discovery of Kinetic Rate Models -- Methodological Framewor
 subtitle: ''
 summary: ''
 authors:
-- Miguel Ángel de Carvalho Servia
-- Ilya Orson Sandoval
+- miguel
+- ilya
 - Klaus Hellgardt
 - King Kuok
 - ' Hii'
 - Dongda Zhang
-- Ehecatl Antonio del Rio Chanona
+- admin
 tags:
 - Computer Science - Computational Engineering
 - Finance

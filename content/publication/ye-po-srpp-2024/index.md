@@ -9,7 +9,7 @@ authors:
 - Dong Ye
 - Bo Wang
 - Ligang Wu
-- Ehecatl Antonio del Rio Chanona
+- admin
 - Zhaowei Sun
 tags:
 - Faces

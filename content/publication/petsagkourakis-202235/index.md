@@ -6,11 +6,11 @@ subtitle: ''
 summary: ''
 authors:
 - Panagiotis Petsagkourakis
-- Ilya Orson Sandoval
+- ilya
 - Eric Bradford
 - Federico Galvanin
 - Dongda Zhang
-- Ehecatl Antonio del Rio-Chanona
+- admin
 tags:
 - Policy search
 - Reinforcement Learning

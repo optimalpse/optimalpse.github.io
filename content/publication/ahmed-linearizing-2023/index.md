@@ -5,9 +5,9 @@ title: Linearizing nonlinear dynamics using deep learning
 subtitle: ''
 summary: ''
 authors:
-- Akhil Ahmed
-- Ehecatl Antonio del Rio-Chanona
-- Mehmet Mercangöz
+- akhil
+- admin
+- Mehmet Mercangoz
 tags:
 - Koopman operator
 - Machine learning

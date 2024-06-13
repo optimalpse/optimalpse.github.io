@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Max Mowbray
 - Dongda Zhang
-- Ehecatl Antonio Del Rio Chanona
+- admin
 tags:
 - Computer Science - Machine Learning
 - Electrical Engineering and Systems Science - Systems and Control

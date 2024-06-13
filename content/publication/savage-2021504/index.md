@@ -6,10 +6,10 @@ title: Model-free safe reinforcement learning for chemical processes using Gauss
 subtitle: ''
 summary: ''
 authors:
-- Thomas Savage
+- tom
 - Dongda Zhang
 - Max Mowbray
-- Ehecatl Antonio Del Río Chanona
+- admin
 tags:
 - Batch Processes
 - Modelling

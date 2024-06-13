@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Eduardo Iraola
 - José M. Nougués
-- Antonio Del Rio Chanona
+- admin
 - Lluís Batet
 - Luis Sedano
 tags:

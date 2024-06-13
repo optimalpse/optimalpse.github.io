@@ -6,9 +6,9 @@ title: An adaptive data-driven modelling and optimization framework for complex 
 subtitle: ''
 summary: ''
 authors:
-- Thomas Savage
+- tom
 - Hector Fernando Almeida-Trasvina
-- Ehecatl Antonio del Río-Chanona
+- admin
 - Robin Smith
 - Dongda Zhang
 tags:

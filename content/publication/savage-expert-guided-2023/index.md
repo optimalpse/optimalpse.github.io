@@ -6,8 +6,8 @@ title: Expert-guided Bayesian Optimisation for Human-in-the-loop Experimental De
 subtitle: ''
 summary: ''
 authors:
-- Tom Savage
-- Antonio Del rio Chanona
+- tom
+- admin
 tags: []
 categories: []
 date: '2023-12-01'

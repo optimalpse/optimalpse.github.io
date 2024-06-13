@@ -9,7 +9,7 @@ authors:
 - Panagiotis Petsagkourakis
 - Max Mowbray
 - Dongda Zhang
-- Ehecatl Antonio del Rio-Chanona
+- admin
 tags:
 - Batch optimization
 - data-Driven optimization

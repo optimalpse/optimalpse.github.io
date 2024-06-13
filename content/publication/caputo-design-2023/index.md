@@ -11,7 +11,7 @@ authors:
 - Pudong Ge
 - Fei Teng
 - Anna Korre
-- Ehecatl Antonio del Rio Chanona
+- admin
 tags:
 - Deep Reinforcement Learning
 - Energy Systems Design

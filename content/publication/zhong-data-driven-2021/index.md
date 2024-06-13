@@ -5,8 +5,8 @@ title: Data-driven distributionally robust MPC using the Wasserstein metric
 subtitle: ''
 summary: ''
 authors:
-- Zhengang Zhong
-- Ehecatl Antonio del Rio-Chanona
+- zhengang
+- admin
 - Panagiotis Petsagkourakis
 tags:
 - Electrical Engineering and Systems Science - Systems and Control

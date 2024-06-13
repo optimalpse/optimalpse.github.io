@@ -10,7 +10,7 @@ authors:
 - Lingfeng Gui
 - Kim Jelfs
 - Alberto Bemporad
-- Ehecatl Antonio del Río Chanona
+- admin
 - Ye Seol Lee
 tags:
 - Bayesian optimization

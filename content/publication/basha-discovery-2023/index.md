@@ -7,9 +7,9 @@ subtitle: ''
 summary: ''
 authors:
 - Nausheen Basha
-- Thomas Savage
+- tom
 - Jonathan McDonough
-- Ehecatl Antonio del Rio Chanona
+- admin
 - Omar K. Matar
 tags:
 - Bayesian optimisation

@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Bovinille Anye Cho
-- Miguel Ángel de Carvalho Servia
-- Ehecatl Antonio del Río Chanona
+- miguel
+- admin
 - Robin Smith
 - Dongda Zhang
 tags:

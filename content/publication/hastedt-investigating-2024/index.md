@@ -6,11 +6,11 @@ title: Investigating the Reliability and Interpretability of Machine Learning Fr
 subtitle: ''
 summary: ''
 authors:
-- Friedrich Hastedt
+- fred
 - Rowan M. Bailey
 - Klaus Hellgardt
 - Sophia N. Yaliraki
-- Ehecatl Antonio del Rio Chanona
+- admin
 - Dongda Zhang
 tags:
 - Benchmarking

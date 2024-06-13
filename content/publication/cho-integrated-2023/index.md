@@ -9,7 +9,7 @@ authors:
 - Bovinille Anye Cho
 - José Ángel Moreno-Cabezuelo
 - Lauren A. Mills
-- Ehecatl Antonio del Río Chanona
+- admin
 - David J. Lea-Smith
 - Dongda Zhang
 tags:

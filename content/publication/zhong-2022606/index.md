@@ -5,8 +5,8 @@ title: Distributionally Robust MPC for Nonlinear Systems
 subtitle: ''
 summary: ''
 authors:
-- Zhengang Zhong
-- Ehecatl Antonio del Rio-Chanona
+- zhengang
+- admin
 - Panagiotis Petsagkourakis
 tags:
 - Model predictive control

@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Alexander William Rogers
-- Ilya Orson Sandoval Cardenas
-- Ehecatl Antonio Del Rio-Chanona
+- ilya
+- admin
 - Dongda Zhang
 tags:
 - automatic model structure identification

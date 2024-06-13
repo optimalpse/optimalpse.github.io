@@ -5,11 +5,11 @@ title: Multi-fidelity data-driven design and analysis of reactor and tube simula
 subtitle: ''
 summary: ''
 authors:
-- Tom Savage
+- tom
 - Nausheen Basha
 - Jonathan McDonough
 - Omar K. Matar
-- Ehecatl Antonio del Rio Chanona
+- admin
 tags:
 - Additive manufacturing
 - Bayesian optimization
