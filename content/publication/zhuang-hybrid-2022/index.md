@@ -8,9 +8,9 @@ summary: ''
 authors:
 - Yilin Zhuang
 - Yixuan Liu
-- Akhil Ahmed
+- akhil
 - zhengang
-- Ehecatl A. del Rio Chanona
+- admin
 - Colin P. Hale
 - Mehmet Mercangöz
 tags:
