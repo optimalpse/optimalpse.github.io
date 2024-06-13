@@ -18,7 +18,7 @@ organizations:
     url: https://www.imperial.ac.uk/people/a.del-rio-chanona
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Research interest"
+bio: "Antonio del Rio Chanona is the head of the Optimisation and Machine Learning for Process Systems Engineering group based in thee Department of Chemical Engineering, as well as the Centre for Process Systems Engineering at Imperial College London. His work is at the forefront of integrating advanced computer algorithms from optimization, machine learning, and reinforcement learning into engineering systems, with a particular focus on bioprocess control, optimization, and scale-up. Dr. del Rio Chanona earned his PhD from the Department of Chemical Engineering and Biotechnology at the University of Cambridge, where his outstanding research earned him the prestigious Danckwerts-Pergamon award for the best PhD dissertation of 2017. He completed his undergraduate studies at the National Autonomous University of Mexico (UNAM), which laid the foundation for his expertise in engineering."
 
 education:
   courses:
