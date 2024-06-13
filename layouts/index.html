@@ -24,9 +24,7 @@
   {{/* If no homepage file is present, fallback to legacy widget page */}}
   {{ partial "widget_page.html" . }}
 {{ end }} -->
-<!-- {{- end -}} -->
 
-<!-- {{ define "main" }} -->
 <div class="row">
   <div class="col-md-8">
     {{ .Content }}
@@ -40,4 +38,5 @@
     </ul>
   </div>
 </div>
-{{ end }}
+
+{{- end -}}
