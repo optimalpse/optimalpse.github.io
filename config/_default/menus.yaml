@@ -59,7 +59,3 @@ main:
   - name: Contact
     url: contact
     weight: 70
-  - name: GitHub
-    pre: fa-github
-    url: https://github.com/OptiMaL-PSE-Lab
-    weight: 80
