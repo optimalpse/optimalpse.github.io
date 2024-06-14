@@ -3,7 +3,7 @@
 <div class="container-xl">
   <div class="row">
     <div class="col-lg-8 col-md-10 mx-auto">
-      <h2><strong>Opti</strong>misation and <strong>M</strong>achine <strong>L</strong>earning for <strong>P</strong>rocess <strong>S</strong>ystems <strong>E</strong>ngineering</h2>
+      <h2 class="section-title"><strong>Opti</strong>misation and <strong>M</strong>achine <strong>L</strong>earning for <strong>P</strong>rocess <strong>S</strong>ystems <strong>E</strong>ngineering</h2>
       {{/* Slideshow Section */}}
       <div class="slideshow-container">
         {{ range (slice "featured.jpg" "group_photo_2.jpg" "fred_presentation.jpg" "christmas_group_22.jpg" "group_aiche.jpg") }}
@@ -25,7 +25,7 @@
     </div>
     <div class="col-lg-4 col-md-10 mx-auto">
       <div class="section-heading">
-        <h2>Latest Research Posts</h2>
+        <h2 class="section-title">Latest Research Posts</h2>
       </div>
       <div class="latest-research-posts">
           {{ range first 10 (where .Site.RegularPages "Section" "post") }}
