@@ -14,61 +14,36 @@ sections:
           align: center
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
               filename: featured.jpg
-              # filters:
-              #   brightness: 0.7
             position: right
-            # color: '#666'
         - title: ''
           content: ''
           align: left
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
               filename: group_photo_2.jpg
-              # filters:
-              #   brightness: 0.7
             position: center
-            # color: '#555'
         - title: ''
           content: ''
           align: right
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
               filename: fred_presentation.jpg
-              # filters:
-              #   brightness: 0.5
             position: center
-            # color: '#333'
         - title: ''
           content: ''
           align: right
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
               filename: christmas_group_22.jpg
-              # filters:
-              #   brightness: 0.5
             position: center
-            # color: '#333'
         - title: ''
           content: ''
           align: right
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
               filename: group_aiche.jpg
-              # filters:
-              #   brightness: 0.5
             position: center
-            # color: '#333'
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
