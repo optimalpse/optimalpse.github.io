@@ -204,7 +204,7 @@
   {{ partial "cookie_consent" . }}
 
   {{ $title := partial "functions/get_page_title" . }}
-  <title>{{$Site.Title }}}</title>
+  <title>{{$.Site.Title }}}</title>
 
   {{/* EXTENSIBILITY HOOK: HEAD-END */}}
   {{/* Deprecated custom_head hook */}}
