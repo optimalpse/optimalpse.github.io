@@ -267,7 +267,9 @@ caption {
 .gallery-item {
   display: block;
   position: relative;
-  overflow: hidden;
+  overflow: visible;
+  border: 1px solid red; /* Temporary border for debugging */
+  background-color: #f0f0f0; /* Temporary background color for debugging */
 }
 
 .gallery-item img {
