@@ -60,14 +60,11 @@
 
           {{ if .HasChildren }}
           <li class="nav-item dropdown">
-            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" id="navbarDropdownMenuLink">
+            <a href="{{ .URL | relLangURL }}" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" id="navbarDropdownMenuLink">
               {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
               <span class="caret"></span>
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
-                {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
-              </a>
               {{ range .Children }}
                 <a class="dropdown-item" href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
                   {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
