@@ -47,7 +47,7 @@ sections:
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
+      slide_height: '200px'
       # Make the slides full screen within the browser window?
       is_fullscreen: false
       # Automatically transition through slides?
