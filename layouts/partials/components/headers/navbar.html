@@ -38,14 +38,14 @@
       {{ end }}
 
       {{if $show_logo}}
-      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
-        {{- if $has_logo -}}
-          <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
-          {{with site.Params.header.image.width}}width="{{.}}"{{end}}
-          {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
-        {{- end -}}
-        <span style='padding-left: 80px; padding-bottom: 50px;'>{{ site.Title }}</span> <!-- ml-2 adds a small margin to the left -->
+      <div class="navbar-brand-mobile-wrapper d-flex justify-content-center align-items-center d-lg-none w-100">
+        <a class="navbar-brand d-flex align-items-center" href="{{ site.Home.RelPermalink }}">
+          {{- if $has_logo -}}
+            <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
+              {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+              {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+          {{- end -}}
+          <span class="ml-3">{{ site.Title }}</span>
         </a>
       </div>
       {{end}}
