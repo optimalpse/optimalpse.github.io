@@ -6,7 +6,7 @@ image:
   focal_point: 'top'
 ---
 
-## About Us
+## **Opti**misation and **M**achine **L**earning for **P**rocess **S**ystems **E**ngineering
 
 ![Group photo](featured.jpg)
 
