@@ -1,34 +1,36 @@
 {{- define "main" -}}
 
-{{/* Check that user fully installed Wowchemy. */}}
-{{/* Commented out to allow user to have no params.yaml and just use the defaults. */}}
-{{/* if not (isset site.Params "seo") */}}
-  {{/* errorf "Please complete the installation of Wowchemy by following the steps at https://wowchemy.com/docs/install/" */}}
-{{/* end */}}
-
-{{/* Deprecation warnings */}}
-
-{{/* v4.5: Address changed from string to map. */}}
-{{ if isset site.Params "address" }}
-{{ if eq (reflect.IsMap site.Params.address) false }}
-  {{ errorf "Please upgrade the `address` field in `config/_default/params.toml`. Refer to all of the Breaking Changes in v4.5 at https://wowchemy.com/updates/v4.5.0/" }}
-{{ end }}
-{{ end }}
-
-<!-- {{/* Generate homepage. */}}
-{{ if eq .Type "book" }}
-  {{ partial "book_layout.html" . }}
-{{ else if eq .Type "landing" }}
-  {{ partial "landing_page.html" . }}
-{{ else }}
-  {{/* If no homepage file is present, fallback to legacy widget page */}}
-  {{ partial "widget_page.html" . }}
-{{ end }} -->
-
 <div class="container-fluid">
   <div class="row">
+    <div class="col-lg-12">
+      {{/* Gallery Section */}}
+      <div class="gallery">
+        <div class="row no-gutters">
+          {{ range (slice "featured.jpg" "group_photo_2.jpg" "fred_presentation.jpg" "christmas_group_22.jpg" "group_aiche.jpg") }}
+          <div class="col-lg-2 col-md-4 col-sm-6">
+            <a href="{{ printf "images/%s" . }}" class="gallery-item">
+              <img src="{{ printf "images/%s" . }}" alt="" class="img-fluid">
+            </a>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
     <div class="col-lg-8 col-md-10 mx-auto">
-      {{ .Content }}
+      {{/* Markdown Section */}}
+      <div class="section-heading">
+        <h2>My title</h2>
+        <h3><strong>Opti</strong>misation and <strong>M</strong>achine <strong>L</strong>earning for <strong>P</strong>rocess <strong>S</strong>ystems <strong>E</strong>ngineering</h3>
+      </div>
+      <div class="markdown-content">
+        <p>The Optimisation and Machine Learning for Process Systems Engineering Group (OptiML PSE) is part of the Department of Chemical Engineering at Imperial College London and headed by Antonio del Rio-Chanona.</p>
+        <p>The group has two main branches of research, on one hand, developing new and more efficient optimisation, and machine learning algorithms that allow to solve general problems in the systems domain. In recent years the group has had particular emphasis on Data-driven optimisation, Reinforcement Learning and Bayesian Optimisation.</p>
+        <p>On the other hand, the groups' research also applies existing state-of-the-art techniques to address current challenges in process engineering. Our main area of application has been on supply chain management and optimisation, and bioprocesses, although we work on other areas, such as fluid dynamics, photonic mirrors, superstructure optimisation, amongst a few others.</p>
+        <p>More information about our current research can be found <a href="https://optimalpse.github.io/research/">here</a>.</p>
+      </div>
     </div>
     <div class="col-lg-4 col-md-10 mx-auto">
       <div class="section-heading">
