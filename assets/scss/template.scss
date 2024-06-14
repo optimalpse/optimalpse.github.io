@@ -356,7 +356,7 @@ caption {
   padding: 10px;
   margin-bottom: 10px;
   border-radius: 5px;
-  transition: background-color 0.3s;
+  transition: background-color 0.3s, transform 0.3s;
 }
 
 .latest-research-posts .research-post a {
@@ -366,6 +366,7 @@ caption {
 
 .latest-research-posts .research-post:hover {
   background-color: #6807ef; /* Slightly purple tone */
+  transform: scale(1.05);
 }
 
 .section-title {
