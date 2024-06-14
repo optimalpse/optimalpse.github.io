@@ -131,7 +131,7 @@
     </li>
     {{ end }}
 
-    {{/* Contact links. */}}
+    <!-- {{/* Contact links. */}}
     {{ range $data.contact_links }}
     {{ $pack := or .icon_pack "fas" }}
     {{ $pack_prefix := $pack }}
@@ -150,7 +150,7 @@
       <i class="fa-li {{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-2x" aria-hidden="true"></i>
       <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{.name|markdownify|emojify|safeHTML}}</a>
     </li>
-    {{ end }}
+    {{ end }} -->
 
   </ul>
 
