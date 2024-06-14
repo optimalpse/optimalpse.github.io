@@ -314,8 +314,9 @@ caption {
 }
 
 .mySlides img {
-  width: 100%;
-  height: auto;
+  width: auto;
+  height: 400px;
+  object-position: center;
 }
 
 .prev,
