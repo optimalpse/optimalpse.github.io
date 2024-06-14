@@ -45,6 +45,11 @@ social:
     link: https://github.com/OptiMaL-PSE-Lab
     display:
       header: true
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@optimlpse5033
+    display:
+      header: true
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
