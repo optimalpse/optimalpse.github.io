@@ -303,3 +303,34 @@ caption {
     max-width: 16.666667%;
   }
 }
+
+.slideshow-container {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.mySlides {
+  display: none;
+}
+
+.mySlides img {
+  width: 100%;
+  height: auto;
+}
+
+.prev,
+.next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 30px;
+  font-weight: bold;
+  padding: 16px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.next {
+  right: 0;
+}
