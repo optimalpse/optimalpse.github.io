@@ -18,12 +18,12 @@
     <div class="container-xl">
 
       {{if $show_logo}}
-      <div class="d-none d-lg-inline-flex justify-content-center align-items-center w-100">
+      <div class="d-none d-lg-inline-flex align-items-center">
         <a class="navbar-brand d-flex align-items-center" href="{{ site.Home.RelPermalink }}">
           {{- if $has_logo -}}
             <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
-              {{with site.Params.header.image.width}}width="{{.}}"{{end}}
-              {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+            {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
           {{- end -}}
           <span class="ml-3">{{ site.Title }}</span>
         </a>
@@ -38,12 +38,12 @@
       {{ end }}
 
       {{if $show_logo}}
-      <div class="navbar-brand-mobile-wrapper d-flex justify-content-center align-items-center d-lg-none w-100">
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none align-items-center">
         <a class="navbar-brand d-flex align-items-center" href="{{ site.Home.RelPermalink }}">
           {{- if $has_logo -}}
             <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
-              {{with site.Params.header.image.width}}width="{{.}}"{{end}}
-              {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+            {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
           {{- end -}}
           <span class="ml-3">{{ site.Title }}</span>
         </a>
