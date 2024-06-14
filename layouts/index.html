@@ -9,7 +9,7 @@
           {{ range (slice "featured.jpg" "group_photo_2.jpg" "fred_presentation.jpg" "christmas_group_22.jpg" "group_aiche.jpg") }}
           <div class="col-lg-2 col-md-4 col-sm-6">
             <a href="{{ printf "images/%s" . }}" class="gallery-item">
-              <img src="{{ printf "images/%s" . }}" alt="" class="img-fluid">
+              <img src="{{ printf "images/%s" . }}" alt="" class="img-fluid" style="overflow:clip !important">
             </a>
           </div>
           {{ end }}
