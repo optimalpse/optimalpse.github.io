@@ -9,7 +9,7 @@ sections:
   - block: slider
     content:
       slides:
-        - title: ''
+        - title: 'Trial'
           content: ''
           align: center
           background:
