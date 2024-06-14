@@ -28,9 +28,8 @@
         <h2>Latest Research Posts</h2>
       </div>
       <div class="latest-research-posts">
-        <ul class="list-unstyled latest-research-posts">
           {{ range first 10 (where .Site.RegularPages "Section" "post") }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          <div class="research-post"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
           {{ end }}
       </div>
       </ul>
