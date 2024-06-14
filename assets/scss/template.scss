@@ -259,3 +259,18 @@ caption {
 .navbar {
   font-size: 18px;
 }
+
+.image-slideshow {
+  display: flex;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+.image-slideshow figure {
+  scroll-snap-align: start;
+  flex-shrink: 0;
+  width: 100%;
+  margin-right: 10px;
+}
