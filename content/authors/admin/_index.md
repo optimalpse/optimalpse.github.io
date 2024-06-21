@@ -27,11 +27,7 @@ education:
       year: 2017
     - course: BSc in Chemical Engineering
       institution: National Autonomous University of Mexico
-<<<<<<< HEAD
-      year: INSERT
-=======
       year: 2013
->>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,8 +40,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=iitJzzwAAAAJ&hl=es
-<<<<<<< HEAD
-=======
   - icon: github
     icon_pack: fab
     link: https://github.com/OptiMaL-PSE-Lab
@@ -56,7 +50,6 @@ social:
     link: https://www.youtube.com/@optimlpse5033
     display:
       header: true
->>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
