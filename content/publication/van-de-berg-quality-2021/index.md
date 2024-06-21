@@ -6,7 +6,11 @@ title: Quality by design modelling to support rapid RNA vaccine production again
 subtitle: ''
 summary: ''
 authors:
+<<<<<<< HEAD
 - Damien van de Berg
+=======
+- damien
+>>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 - Zoltán Kis
 - Carl Fredrik Behmer
 - Karnyart Samnuan

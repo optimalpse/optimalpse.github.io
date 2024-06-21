@@ -1,0 +1,60 @@
+{{- define "main" -}}
+
+<div class="container-xl">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <h2 class="section-title"><strong>Opti</strong>misation and <strong>M</strong>achine <strong>L</strong>earning for <strong>P</strong>rocess <strong>S</strong>ystems <strong>E</strong>ngineering</h2>
+      {{/* Slideshow Section */}}
+      <div class="slideshow-container">
+        {{ range (slice "featured.jpg" "group_photo_2.jpg" "fred_presentation.jpg" "christmas_group_22.jpg" "group_aiche.jpg") }}
+        <div class="mySlides">
+          <img src="{{ printf "images/%s" . }}" alt="Slideshow Image">
+        </div>
+        {{ end }}
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+      </div>
+
+      {{/* Markdown Section */}}
+      <div class="markdown-content">
+        <p>The Optimisation and Machine Learning for Process Systems Engineering Group (OptiML PSE) is part of the Department of Chemical Engineering at Imperial College London and headed by <a href="https://optimalpse.github.io/author/dr.-ehecatl-antonio-del-rio-chanona/">Antonio del Rio-Chanona</a>.</p>
+        <p>The group has two main branches of research, on one hand, developing new and more efficient optimisation, and machine learning algorithms that allow to solve general problems in the systems domain. In recent years the group has had particular emphasis on Data-driven optimisation, Reinforcement Learning and Bayesian Optimisation.</p>
+        <p>On the other hand, the groups' research also applies existing state-of-the-art techniques to address current challenges in process engineering. Our main area of application has been on supply chain management and optimisation, and bioprocesses, although we work on other areas, such as fluid dynamics, photonic mirrors, superstructure optimisation, amongst a few others.</p>
+        <p>More information about our current research can be found <a href="https://optimalpse.github.io/research/">here</a>.</p>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-10 mx-auto">
+      <div class="section-heading">
+        <h2 class="section-title">Latest Research Posts</h2>
+      </div>
+      <div class="latest-research-posts">
+          {{ range first 10 (where .Site.RegularPages "Section" "post") }}
+          <div class="research-post"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+          {{ end }}
+      </div>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<script>
+  var slideIndex = 1;
+  showSlides(slideIndex);
+
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    if (n > slides.length) { slideIndex = 1 }
+    if (n < 1) { slideIndex = slides.length }
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slides[slideIndex - 1].style.display = "block";
+  }
+</script>
+
+{{- end -}}

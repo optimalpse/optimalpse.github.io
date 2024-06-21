@@ -6,7 +6,47 @@
 main:
   - name: Research
     url: research
+<<<<<<< HEAD
+=======
+    identifier: research
+>>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
     weight: 10
+  - name: Data-Driven Optimization
+    parent: research
+    url: research/data-driven-optimization
+    weight: 2
+  - name: Reinforcement Learning
+    parent: research
+    url: research/reinforcement-learning
+    weight: 4
+  - name: Bayesian Optimization
+    parent: research
+    url: research/bayesian-optimization
+    weight: 1
+  - name: Supply Chain Optimization
+    parent: research
+    url: research/supply-chain-optimization
+    weight: 3
+  - name: Hybrid Modelling
+    parent: research
+    url: research/hybrid-modelling
+    weight: 7
+  - name: Large Language Models
+    parent: research
+    url: research/large-language-models
+    weight: 6 
+  - name: Statistical Learning
+    parent: research
+    url: research/statistical-learning
+    weight: 5
+  - name: Deep Learning in Chemical Engineering
+    parent: research
+    url: research/deep-learning-in-ce
+    weight: 9
+  - name: Process Control
+    parent: research
+    url: research/process-control
+    weight: 8
   - name: News
     url: news
     weight: 20
@@ -16,6 +56,9 @@ main:
   - name: Publications
     url: publication
     weight: 50
+  - name: Learning Resources
+    url: learning-resources
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70

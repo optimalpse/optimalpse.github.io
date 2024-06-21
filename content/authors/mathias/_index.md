@@ -78,7 +78,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+<<<<<<< HEAD
   - PhD Researchers
+=======
+  - PhD Students
+>>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 ---
 
 Graduated from University of Cologne with a B.Sc. in Business Administration and from RWTH Aachen University with a M.Sc. in Chemical Engineering, with a semester abroad at Universidade de Lisboa and Imperial College London. Mathias has professional experience in Data Science at LANXESS and held various science assistant (student researcher) positions in RWTH Aachen Unviersity. In his PhD he combines his passion for Machine Learning and Thermodynamics to develop data-driven optimization algorithms to match solvents and reactands.

@@ -6,9 +6,15 @@ title: Surrogate Modelling and Optimization for Complex Liquefied Natural Gas Re
 subtitle: ''
 summary: ''
 authors:
+<<<<<<< HEAD
 - Thomas Savage
 - Fernando Almeida-Trasvina
 - Antonio Del-Rio Chanona
+=======
+- tom
+- Fernando Almeida-Trasvina
+- admin
+>>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 - Robin Smith
 - Dongda Zhang
 tags:

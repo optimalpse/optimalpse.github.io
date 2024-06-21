@@ -71,7 +71,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+<<<<<<< HEAD
   - PhD Researchers
+=======
+  - PhD Students
+>>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 ---
 
 Final-year PhD candidate working at the intersection of optimization and Machine Learning. I investigate how data-driven techniques can aid the optimization of integrated manufacturing and supply chain systems, with a focus on black-box optimization, optimization with embedded neural networks, and Reinforcement Learning for combinatorial optimization. By collaborating with industry, I ensure my case studies are industrially relevant and that my algorithms respect the organizational and business considerations of the process industries.

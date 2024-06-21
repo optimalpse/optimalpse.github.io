@@ -68,7 +68,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+<<<<<<< HEAD
   - PhD Researchers
+=======
+  - PhD Students
+>>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 ---
 
 Buse is a PhD candiate with research focus on developing safe learning and safe reinforcement learning algorithms to increase autonomy in large-complex cyber-physical systems. She is also interested in fairness and explainability in large models such as LLMs.Before her PhD, she was an undergraduate student at Istanbul Technical University studying a double major in Computer Engineering and Industrial Engineering. Upon her graduation, she worked in the industry as a management consultant and a machine learning engineer.

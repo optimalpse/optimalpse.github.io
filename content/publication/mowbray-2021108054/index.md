@@ -6,11 +6,19 @@ subtitle: ''
 summary: ''
 authors:
 - Max Mowbray
+<<<<<<< HEAD
 - Thomas Savage
 - Chufan Wu
 - Ziqi Song
 - Bovinille Anye Cho
 - Ehecatl A. Del Rio-Chanona
+=======
+- tom
+- Chufan Wu
+- Ziqi Song
+- Bovinille Anye Cho
+- admin
+>>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 - Dongda Zhang
 tags:
 - Machine learning

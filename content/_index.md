@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 # Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
@@ -63,4 +64,9 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the group members →" %}}
     design:
       columns: '1'
+=======
+title: "Optimisation and Machine Learning for Process Systems Engineering"
+date: 2023-06-13
+draft: false
+>>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 ---

@@ -74,7 +74,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+<<<<<<< HEAD
   - PhD Researchers
+=======
+  - PhD Students
+>>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 ---
 
 I am a PhD candidate at Imperial College London, where my research focuses on the intersection of reinforcement learning, differentiable programming and nonlinear optimal control. Curiosity driven, usually by applied mathematics and computer simulations with applications over multiple fields! Previously, I worked in data science and software engineering within the energy and food industries in Mexico. I have a background in theoretical and computational physics.

@@ -7,7 +7,11 @@ subtitle: ''
 summary: ''
 authors:
 - Guoquan Wu
+<<<<<<< HEAD
 - Miguel Ángel de Carvalho Servia
+=======
+- miguel
+>>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 - Max Mowbray
 tags:
 - Distributional reinforcement learning

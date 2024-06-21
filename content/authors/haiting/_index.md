@@ -14,7 +14,11 @@ authors:
 superuser: false
 
 # Role/position
+<<<<<<< HEAD
 role: Second Year PhD Candidate
+=======
+role: Third Year PhD Candidate
+>>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 
 # Organizations/Affiliations
 # organizations:
@@ -64,7 +68,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+<<<<<<< HEAD
   - PhD Researchers
+=======
+  - PhD Students
+>>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 ---
 
 Haiting is a PhD candidate specializing in Digital Twinning for bioprocesses, incorporating hybrid and data-driven models. Her research emphasizes machine learning applications in surrogate modelling, time series prediction, and reinforcement learning for process modelling, scheduling, and optimization in bioengineering. This work has led to a novel framework that merges kinetic modelling with machine learning to optimize dynamic systems. Before her PhD, she was an undergraduate student at Dalian University of Technology and University of Manchester in Chemical Engineering.
