@@ -6,10 +6,7 @@
 main:
   - name: Research
     url: research
-<<<<<<< HEAD
-=======
     identifier: research
->>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
     weight: 10
   - name: Data-Driven Optimization
     parent: research
