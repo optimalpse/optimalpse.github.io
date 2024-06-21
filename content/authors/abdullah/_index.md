@@ -30,13 +30,15 @@ interests:
 
 education:
   courses:
-    - course: MEng in Engineering Management
-      institution: King Fahd University of Petroleum and Minerals
-      year: 2020
-    - course: BSc in Chemical Engineering
-      institution: King Fahd University of Petroleum and Minerals
-      year: 2015
-
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 professional experience:
   experiences:

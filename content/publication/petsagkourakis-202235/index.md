@@ -6,19 +6,11 @@ subtitle: ''
 summary: ''
 authors:
 - Panagiotis Petsagkourakis
-<<<<<<< HEAD
-- Ilya Orson Sandoval
-- Eric Bradford
-- Federico Galvanin
-- Dongda Zhang
-- Ehecatl Antonio del Rio-Chanona
-=======
 - ilya
 - Eric Bradford
 - Federico Galvanin
 - Dongda Zhang
 - admin
->>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 tags:
 - Policy search
 - Reinforcement Learning
