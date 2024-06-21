@@ -14,11 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-<<<<<<< HEAD
-role: Second Year PhD Candidate
-=======
 role: Third Year PhD Candidate
->>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 
 # Organizations/Affiliations
 # organizations:

@@ -67,11 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-<<<<<<< HEAD
-  - PhD Researchers
-=======
   - PhD Students
->>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 ---
 
 Zhengang is a PhD candidate at Imperial College London. His PhD research is about data-driven distributionally robust model predictive control.Prior to his PhD research, he holds a Diplom-Ingenieur in Mechatronics from Technische Universität Dresden. His research interests include data-driven optimal control, scientific machine learning, and distributionally robust optimisation.

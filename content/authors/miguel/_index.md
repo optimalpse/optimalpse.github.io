@@ -14,11 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-<<<<<<< HEAD
-role: Second Year PhD Candidate
-=======
 role: Third Year PhD Candidate
->>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 
 # Organizations/Affiliations
 # organizations:
@@ -76,11 +72,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-<<<<<<< HEAD
-  - PhD Researchers
-=======
   - PhD Students
->>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 ---
 
 Miguel Carvalho is a chemical engineering PhD candidate at Imperial College London, affiliated with the EPSRC CDT in Next Generation Synthesis and Reaction Technology. He earned an MEng in chemical engineering from The University of Manchester (2021) and an MRes in advanced molecular synthesis from Imperial College London (2022). His research intersects data science, chemical engineering, and chemistry, concentrating on algorithmic solutions for automated knowledge discovery in reaction engineering and catalysis.
