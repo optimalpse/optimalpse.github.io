@@ -6,15 +6,9 @@ title: An integrated dimensionality reduction and surrogate optimization approac
 subtitle: ''
 summary: ''
 authors:
-<<<<<<< HEAD
-- Thomas R. Savage
-- Fernando Almeida-Trasvina
-- Ehecatl Antonio Del Río Chanona
-=======
 - tom
 - Fernando Almeida-Trasvina
 - admin
->>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 - Robin Smith
 - Dondga Zhang
 tags:

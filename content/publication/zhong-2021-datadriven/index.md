@@ -5,13 +5,8 @@ title: Data-driven distributionally robust MPC using the Wasserstein metric
 subtitle: ''
 summary: ''
 authors:
-<<<<<<< HEAD
-- Zhengang Zhong
-- Ehecatl Antonio del Rio-Chanona
-=======
 - zhengang
 - admin
->>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 - Panagiotis Petsagkourakis
 tags: []
 categories: []

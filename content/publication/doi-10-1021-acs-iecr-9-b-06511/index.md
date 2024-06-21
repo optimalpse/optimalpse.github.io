@@ -6,11 +6,7 @@ title: Superstructure Reaction Network Design for the Synthesis of Biobased Sust
 subtitle: ''
 summary: ''
 authors:
-<<<<<<< HEAD
-- Thomas R. Savage
-=======
 - tom
->>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 - Dongda Zhang
 tags: []
 categories: []

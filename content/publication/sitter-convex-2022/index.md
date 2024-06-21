@@ -6,15 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Sophie Sitter
-<<<<<<< HEAD
-- Damien van de Berg
-- Max Mowbray
-- Antonio del Rio Chanona
-=======
 - damien
 - Max Mowbray
 - admin
->>>>>>> 45fef293bad45213e1e49db40da7d42cc67812b3
 - Panagiotis Petsagkourakis
 tags:
 - convex Q-learning
