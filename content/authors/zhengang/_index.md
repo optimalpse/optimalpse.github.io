@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Third Year PhD Candidate
+role: Data-Driven Distributionally Robust Control
 
 # Organizations/Affiliations
 # organizations:

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Third Year PhD Candidate
+role: Knowledge-driven Autonomous Systems - Neural ODEs and Reinforcement Learning
 
 # Organizations/Affiliations
 # organizations:

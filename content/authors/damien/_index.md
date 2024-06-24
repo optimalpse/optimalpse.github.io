@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Third Year PhD Candidate
+role: Data-Driven Optimization for the Integration of Interconnected Process Systems
 
 # Organizations/Affiliations
 # organizations:

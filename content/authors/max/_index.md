@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: First Year PhD Candidate
+role: Deep Reinforcement Learning for Process Control and Scheduling
 
 # Organizations/Affiliations
 # organizations:

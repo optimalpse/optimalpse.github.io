@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: First Year PhD Candidate
+role: Digitalisation of Chemical Value Chains
 
 # Organizations/Affiliations
 # organizations:

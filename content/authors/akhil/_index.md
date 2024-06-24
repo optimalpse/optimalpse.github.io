@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Co-supervised Third Year PhD Candidate
+role: Adaptive Modelling, Control and Optimization of Large-Scale Systems using Machine Learning
 
 # Organizations/Affiliations
 # organizations:

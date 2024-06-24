@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: First Year PhD Candidate
+role: Statistical Machine Learning and Optimization for Solvent Selection
 
 # Organizations/Affiliations
 # organizations:
