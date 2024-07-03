@@ -14,7 +14,7 @@
     {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
     {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
     {{ if not (and $is_sponsor $hide_published_with_footer) }}
-      {{ $default := "Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators." }}
+      {{ $default := "" }}
       {{ $i18n_published_with := i18n "published_with" | default $default }}
       {{ if not (findRE "{wowchemy}" $i18n_published_with) }}
         {{ warnf "Please attribute Wowchemy using `{wowchemy}` in the `published_with` text." }}
