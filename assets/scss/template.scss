@@ -352,20 +352,21 @@ caption {
 }
 
 .latest-research-posts .research-post {
-  background-color: #2229eb; /* Light blue tone */
+  background-color: #ffffff; /* Light blue tone */
   padding: 10px;
   margin-bottom: 10px;
+  border: 2px solid #000000; /* Black outline */
   border-radius: 5px;
   transition: background-color 0.3s, transform 0.3s;
 }
 
 .latest-research-posts .research-post a {
-  color: #ffffff; /* Black text color */
+  color: #000000; /* Black text color */
   text-decoration: none;
 }
 
 .latest-research-posts .research-post:hover {
-  background-color: #6807ef; /* Slightly purple tone */
+  background-color: #cececf; /* Slightly purple tone */
   transform: scale(1.05);
 }
 
