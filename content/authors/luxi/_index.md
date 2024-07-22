@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Final Year PhD Candidate
+role: Towards online quality control of biotherapeutics through soft sensing of intracellular states
 
 # Organizations/Affiliations
 # organizations:

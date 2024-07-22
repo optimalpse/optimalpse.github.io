@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Second Year PhD Candidate
+role: Supervised Machine Learning for Retrosynthesis and Synthesis Route Planning
 
 # Organizations/Affiliations
 # organizations:

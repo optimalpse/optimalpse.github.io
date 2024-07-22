@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Third Year PhD Candidate
+role: Hybrid modeling for bioprocesses - merging first principles and machine learning 
 
 # Organizations/Affiliations
 # organizations:
