@@ -10,8 +10,8 @@ Funding is available through a number of scholarships including:
 
 ## Postdoctoral and Research Associate Fellowships 
 
-- [IX AI for science fellowships](https://www.imperial.ac.uk/ix-ai-in-science/apply/)
-- [EPSRC postdoctoral fellowship](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
+- [IX AI for Science Fellowships](https://www.imperial.ac.uk/ix-ai-in-science/apply/)
+- [EPSRC Postdoctoral Fellowship](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
 - [Marie Sklodowska-Curie](https://marie-sklodowska-curie-actions.ec.europa.eu/funding)
 - [Royal Society's Newton International Fellowship](https://royalsociety.org/grants/newton-international/)
 
