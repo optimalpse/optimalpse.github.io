@@ -1,6 +1,20 @@
 ---
 title: Contact & Opportunities
 ---
+## PhD Scholarships
+
+Funding is available through a number of scholarships including:
+- [Imperial Marshall Scholarship](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/international-scholarship-collaborations/ims/)
+- [EPSRC DTP Studentships](https://www.imperial.ac.uk/chemical-engineering/courses/postgraduate/phd/scholarships/)
+- [Becas Chile](https://www.conicyt.cl/becasconicyt/postulantes/oferta-becas/#tab-02)
+
+## Postdoctoral and Research Associate Fellowships 
+
+- [IX AI for science fellowships](https://www.imperial.ac.uk/ix-ai-in-science/apply/)
+- [EPSRC postdoctoral fellowship](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
+- [Marie Sklodowska-Curie](https://marie-sklodowska-curie-actions.ec.europa.eu/funding)
+- [Royal Society's Newton International Fellowship](https://royalsociety.org/grants/newton-international/)
+
 
 ## PhD Applicants
 
