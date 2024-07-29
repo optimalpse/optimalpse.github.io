@@ -22,7 +22,7 @@ role: Adaptive Modelling, Control and Optimization of Large-Scale Systems using 
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Akhil is a PhD candidate working at the intersection of machine learning, optimization and control. He has a proven track record in practical problem solving across diverse industries and domains with research contributions published in various conferences and journals. He graduated with a first class/distinction from the University of Strathclyde in Chemical and Process Engineering and worked as a scientific software developer and engineering consultant before commencing his doctoral studies.
+bio: Akhil is a PhD candidate working at the intersection of machine learning, optimization and control. He has a proven track record in practical problem solving across diverse industries and domains with research contributions published in various conferences and journals. He graduated with a first class/distinction from the University of Strathclyde in Chemical and Process Engineering and worked as a scientific software developer and engineering consultant before commencing his doctoral studies. Akhil Ahmed is part of the Autonomous Industrial Systems Lab supervised by Mehmet Mercangoz and co-supervised by Antonio del Rio Chanona.
 
 interests:
   - Machine Learning Applied to PSE

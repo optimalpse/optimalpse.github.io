@@ -22,7 +22,7 @@ role: Towards online quality control of biotherapeutics through soft sensing of 
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My name is Luxi and I’m a final year PhD student co-supervised by Cleo Kontoravdi and Antonio del Rio Chanona. My research interest lies in between process modelling simulation and biotherapeutics production in mammalian cell culture. My PhD project consists of both the computational side and the experimental side in the wet lab. 
+bio: My name is Luxi and I’m a final year PhD student supervised by Cleo Kontoravdi and co-supervised by Antonio del Rio Chanona. My research interest lies in between process modelling simulation and biotherapeutics production in mammalian cell culture. My PhD project consists of both the computational side and the experimental side in the wet lab. 
 
 interests:
   - State Estimation in biotherapeutics production process, specifically in mammalian cell culture.
