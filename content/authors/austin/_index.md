@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Austin Mroz
+title: Dr. Austin Mroz
 
 # Full name (for SEO)
 first_name: Austin

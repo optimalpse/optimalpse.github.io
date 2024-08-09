@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ana Marisa Arias
+title: Dr. Ana Marisa Arias
 
 # Full name (for SEO)
 first_name: Ana Marisa
