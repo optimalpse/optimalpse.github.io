@@ -6,7 +6,12 @@
         "titleBar.inactiveBackground": "#93eac999",
         "titleBar.inactiveForeground": "#15202b99",
         "sash.hoverBorder": "#bef2de",
-        "tab.activeBorder": "#bef2de"
+        "activityBar.activeBackground": "#bef2de",
+        "activityBar.background": "#bef2de",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#bc7ae4",
+        "activityBarBadge.foreground": "#15202b"
     },
     "peacock.color": "#93eac9"
 }
