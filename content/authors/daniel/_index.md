@@ -48,7 +48,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/daniel-cristiu/
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: ai
     link: https://scholar.google.it/citations?hl=it&user=RvXtRCYAAAAJ
 
 # Link to a PDF of your resume/CV from the About widget.
