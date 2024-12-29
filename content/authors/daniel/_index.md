@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Value & Supply Chain Design and Optimisation
+role: Research Assistant
 
 # Organizations/Affiliations
 # organizations:
