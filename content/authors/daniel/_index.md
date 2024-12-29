@@ -44,16 +44,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/DamienvandeBer1
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/daniel-cristiu/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/dv516
-  - icon: scholar
+  - icon: google-scholar
     icon_pack: fab
     link: https://scholar.google.it/citations?hl=it&user=RvXtRCYAAAAJ
 
@@ -69,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Associate
+  - Postdoctoral & Affiliated Researchers
 ---
 
 Daniel is a Research Assistant working on Value & Supply Chain Design and Optimisation. He holds a PhD in Chemical and Environmental Engineering from the University of Padova, where his research focused on the optimal design of sustainable production systems. Daniel's expertise includes developing advanced optimisation strategies and integrating sustainability into supply chains. His work combines mathematical optimisation, decision-making under uncertainty, and supply chain management, using techniques like robust and stochastic optimisation to enhance decision-making and improve supply chain performance in chemical processes and manufacturing.
