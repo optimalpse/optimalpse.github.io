@@ -22,7 +22,7 @@ role: Advancing Large Language Models for Comprehensive Scientific Assistance
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Buse is a PhD candidate with research focus on improving capabilities of multi-modal AI models to have comprehensive understanding of scientific documents such as conference papers. She is also interested in factuality and fairness in large models such as LLMs. Before her PhD, she was an undergraduate student at Istanbul Technical University studying a double major in Computer Engineering and Industrial Engineering. Upon her graduation, she worked in the industry as a management consultant and a machine learning engineer.
+bio: Buse is a PhD candidate with research focus on improving capabilities of multi-modal AI models to have comprehensive understanding of scientific documents such as conference papers. She is also interested in factuality and fairness in large models such as LLMs. Before her PhD, she was an undergraduate student at Istanbul Technical University studying a double major in Computer Engineering and Industrial Engineering. 
 
 interests:
   - Scientific Large Language Models
@@ -38,6 +38,18 @@ education:
     - course:  BSc in Industrial Engineering
       institution: Istanbul Technical University
       year: 2021
+    
+professional experience:
+  experiences:
+    - experience: Applied Scientist Intern
+      institution: Amazon
+      year: 2024 - 2025
+    - experience: AI Research Intern
+      institution: IBM Research
+      year: 2024
+    - experience: AI Research Intern
+      institution: IBM Research
+      year: 2023    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -65,4 +77,4 @@ user_groups:
   - PhD Students
 ---
 
-Buse is a PhD candidate with research focus on improving capabilities of multi-modal AI models to have comprehensive understanding of scientific documents such as conference papers. She is also interested in factuality and fairness in large models such as LLMs. Before her PhD, she was an undergraduate student at Istanbul Technical University studying a double major in Computer Engineering and Industrial Engineering. Upon her graduation, she worked in the industry as a management consultant and a machine learning engineer.
+Buse is a PhD candidate with research focus on improving capabilities of multi-modal AI models to have comprehensive understanding of scientific documents such as conference papers. She is also interested in factuality and fairness in large models such as LLMs. Before her PhD, she was an undergraduate student at Istanbul Technical University studying a double major in Computer Engineering and Industrial Engineering. 
