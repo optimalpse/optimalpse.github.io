@@ -22,7 +22,7 @@ role: Statistical Machine Learning and Optimization for Solvent Selection
 #     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduated from University of Cologne with a B.Sc. in Business Administration and from RWTH Aachen University with a M.Sc. in Chemical Engineering, with a semester abroad at Universidade de Lisboa and Imperial College London. Mathias has professional experience in Data Science at LANXESS and held various science assistant (student researcher) positions in RWTH Aachen Unviersity. In his PhD he combines his passion for Machine Learning and Thermodynamics to develop data-driven optimization algorithms to match solvents and reactands.
+bio: Graduated from University of Cologne with a B.Sc. in Business Administration and from RWTH Aachen University with a M.Sc. in Chemical Engineering, with a semester abroad at Universidade de Lisboa and Imperial College London. Mathias has professional experience in Data Science at LANXESS and held various science assistant (student researcher) positions in RWTH Aachen Unviersity. In his PhD he combines his passion for Machine Learning, Quantum Chemistry, and Thermodynamics to develop data-driven optimization algorithms to design reaction solvents.
 
 interests:
   - Bayesian Inference
@@ -66,6 +66,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/NeuM4
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=FgroekEAAAAJ&hl=de&oi=ao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
