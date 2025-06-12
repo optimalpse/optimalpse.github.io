@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniel Cristiu
+title: Dr. Daniel Cristiu
 
 # Full name (for SEO)
 first_name: Daniel
