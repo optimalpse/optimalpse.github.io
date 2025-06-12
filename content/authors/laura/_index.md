@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Laura Helleckes
+title: Dr. Laura Helleckes
 
 # Full name (for SEO)
 first_name: Laura
