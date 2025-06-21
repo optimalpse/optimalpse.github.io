@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tom Savage
+title: Dr. Tom Savage
 
 # Full name (for SEO)
 first_name: Tom

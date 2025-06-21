@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Akhil Ahmed
+title: Dr. Akhil Ahmed
 
 # Full name (for SEO)
 first_name: Akhil

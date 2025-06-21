@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhengang Zhong
+title: Dr. Zhengang Zhong
 
 # Full name (for SEO)
 first_name: Zhengang

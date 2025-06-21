@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Damien van de Berg
+title: Dr. Damien van de Berg
 
 # Full name (for SEO)
 first_name: Damien
