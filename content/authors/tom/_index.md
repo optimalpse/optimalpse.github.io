@@ -78,7 +78,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
 I am a PhD student at Imperial College London & 2023 Enrichment student at the Alan Turing Institute. I have a background in Chemical Engineering and still enjoy teaching labs at Imperial College. Alongside my work in process systems engineering, I am affiliated with Winchester School of Art producing installations with the Tate on the intersection between AI and art. My interests include Bayesian optimisation, human-in-the-loop machine learning, cricket 🏏, and darts 🎯.

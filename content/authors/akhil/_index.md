@@ -77,7 +77,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
 Akhil is a PhD candidate working at the intersection of machine learning, optimization and control. He has a proven track record in practical problem solving across diverse industries and domains with research contributions published in various conferences and journals. He graduated with a first class/distinction from the University of Strathclyde in Chemical and Process Engineering and worked as a scientific software developer and engineering consultant before commencing his doctoral studies. Akhil is a member of the Autonomous Industrial Systems Lab supervised by Mehmet Mercangoz and he is co-supervised by Antonio del Rio Chanona. 
