@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data-Driven Optimization for the Integration of Interconnected Process Systems
+role: Research Scientist at Meta, former PhD student at OptiML (2021-2025)
 
 # Organizations/Affiliations
 # organizations:

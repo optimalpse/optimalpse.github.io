@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data-Driven Distributionally Robust Control
+role: Postdoctoral Researcher at University of Warwick, former PhD student at OptiML (2021-2025)
 
 # Organizations/Affiliations
 # organizations:

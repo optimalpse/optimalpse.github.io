@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Applied Data-Driven Optimisation
+role: Forward Deployed Engineer at Palantir, former PhD student at OptiML (2021-2025)
 
 # Organizations/Affiliations
 # organizations:

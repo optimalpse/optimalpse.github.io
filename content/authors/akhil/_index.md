@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Adaptive Modelling, Control and Optimization of Large-Scale Systems using Machine Learning
+role: Head of Innovation at PE Limited, former PhD student at OptiML (2021-2025)
 
 # Organizations/Affiliations
 # organizations:
